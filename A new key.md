@@ -1,6 +1,6 @@
 A new key.
 
-My newly milled key has a bright shine to the metal and sharp edges that my old key does not. When I rub my fingers over the length of this new key, the bumps and ridges, while prickly, stimulate new and unexpected sensations. Holding the key in my hands, sliding my index finger over the ridges, I note that the grooves running it's length are clean and without the sludgy build up or grime of my old key. I fumble and struggle when putting my new key into the lock, a lack of practice certainly, but the new key also results in jarring, uncomfortable sounds as metal grinds into an unfamiliar lock.
+My newly milled key has a bright shine to the metal and sharp edges that my old key does not. When I rub my fingers over the length of this new key, the bumps and ridges, while prickly, stimulate new and unexpected sensations. Holding the key in my hands, sliding my index finger over the ridges, I note that the grooves running it's length are clean and without the sludgy build up or grime of my old key. But I fumble and struggle when putting my new key into the lock, a lack of practice certainly the cause. The new key also results in jarring, uncomfortable sounds as metal grinds into an unfamiliar lock.
 
 The newness of this key is striking when compared to my old one.
 
