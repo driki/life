@@ -8,4 +8,4 @@ Years of pocket lint, handling and use have smoothed the ridges of my old key. T
 
 The gunk of life will coat this new key, the bumps and harsh edges will soften with each use and become familiar to my fingers. The metallic sounds will become pleasing and I will not fumble to open the door.
 
-I will miss my old key, but my new key will soon become my old key.
+I will miss my old key, but my new key will become my old key.
