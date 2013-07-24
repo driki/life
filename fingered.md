@@ -1,0 +1,9 @@
+# Fingered.
+
+The finger that lay on my table was white, not bleached, but white, from a white person. It didn't belong to anyone I knew. At least I didn't think that it looked familiar, but when do you really see a finger that isn't attached to a hand. From the doorway I could see this finger had plenty of dirt under the nail, but the rest of it appeared spotless, like it had been washed or scrubbed clean. Other than the finger, my table had only salt and pepper on it, that and a small stack of napkins. The finger was here when I walked in the room, and I was surprised that it didn't shock me. It's not that gore bothers me much, I just haven't been around it often enough to know how to expect I would react.
+
+I live alone. My table is neat, it's wood and you can see the grain. There is one water glass stain near where I sit. I forgot to put a coaster down during one particularly hot summer day and I've regretted it since. The finger was in the approximate position where my plate normally would be during dinner. The water stain was to the left. The nail was pointing toward me, the finger slightly bent, it isn't clear if it was from the right hand or the left.
+
+A minute past while I was staring at the finger, I think it was a minute, time moves differently when you are staring at a disembodied finger. I think it does anyway. The wooden floor creaked a bit as I rocked forward, moving toward the table. How do you approach a finger? Slowly seemed appropriate. I stood behind my chair.
+
+Have I breathed yet? Yes, right I have. I can smell it. It has been warm this summer, very warm. I have been gone for two days. I bend at the waist. I can see flecks of dark sand, also something green under the nail. The smell is much stronger inches away from the finger. I reach for the phone in my pocket. The finger twitches, I take a step back. It extends fully straight, then curls back toward itself. It repeats this motion. It wants me to come closer.
