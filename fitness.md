@@ -4,6 +4,7 @@
 * Chest: 41"
 * Waist: 32.5"
 
+
 * Date: Tuesday December 3rd, 2014
 * Event: Invisible Fran - FOR TIME
 * Result: 00:01:48
