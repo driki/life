@@ -4,13 +4,12 @@
 * Chest: 41"
 * Waist: 32.5"
 
--------------------------
-Date: Tuesday December 3rd, 2014
-Event: Invisible Fran - FOR TIME
-Result: 00:01:48
-Morning weight: 175.0lbs
-Note: I did two of these, the first one was 00:02:01 and I wanted to get under 2 minutes. 
--------------------------
+* Date: Tuesday December 3rd, 2014
+* Event: Invisible Fran - FOR TIME
+* Result: 00:01:48
+* Morning weight: 175.0lbs
+* Note: I did two of these, the first one was 00:02:01 and I wanted to get under 2 minutes. 
+
 Round 1
 * 21 air squats
 * 21 push ups
