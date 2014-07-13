@@ -3,6 +3,7 @@
 * transfer files from iMac hard drive to other computers
 * setup external offsite backup
 * weed unused clothes from drawers
+* Buy two new smoke/CO2 detectors
 * repair/replace windows in the dining room
 * fix/replace ceiling fan in the dining room
 * Get handyman to look at the crack in the floor in front of the fireplace
