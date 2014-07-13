@@ -27,7 +27,8 @@
 * Get someone to look at the chimney, does it need to be re-pointed
 * Patch the hole in the laundry room
 * Purge kitchen stuff, unused pots, pans, utensils
-* Sell the flatbed scanner
+* Sell the flatbed scanner on Craigslist
 * Clean the oven sides
 * Wash the windows
 * Purge the game closet of unused, old games that we don't play anymore
+* bring old music CD's to be sold
