@@ -1,15 +1,15 @@
 * extract hard drive from 20" iMac
-* buy external hard drive dock
+* ~~buy external hard drive dock~~
 * transfer files from iMac hard drive to other computers
 * setup external offsite backup
 * weed unused clothes from drawers
-* Buy two new smoke/CO2 detectors
+* ~~Buy two new smoke/CO2 detectors~~
 * repair/replace windows in the dining room
 * fix/replace ceiling fan in the dining room
 * Get handyman to look at the crack in the floor in front of the fireplace
 * Bathroom, patch the hole in the wall
 * Bathroom, clean the ceiling 
-* Bathroom, fix the back toilet seat
+* ~~Bathroom, fix the back toilet seat~~
 * Find a screen for the large family room window
 * Patch or replace the screens that have holes
 * Hang the spice jar rack in the pantry
