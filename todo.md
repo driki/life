@@ -1,3 +1,4 @@
+# High Priority
 * repair/replace windows in the dining room
 * fix/replace ceiling fan in the dining room
 * Get handyman to look at the crack in the floor in front of the fireplace
@@ -21,6 +22,8 @@
 * Clean the oven sides
 * Wash the windows
 * Purge the game closet of unused, old games that we don't play anymore
+
+# Done
 * ~~Hang the spice jar rack in the pantry~~
 * ~~Clean out the pantry~~
 * ~~Bathroom, fix the back toilet seat~~
