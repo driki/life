@@ -3,6 +3,7 @@
 * Consolidate our financial accounts, get them all in the same place
 * Rollover PRX 401k
 * Rollover MITRE 403b
+* Pause Kim's gym membership
 
 # Tidying up
 * Purge Matt's clothes from office closet
@@ -32,6 +33,7 @@
 * Paint the walls and fix the edges/corners that the kids have dinged up
 
 # Done
+* ~~Destroy old hard drives~~
 * ~~Purge kitchen stuff, unused pots, pans, utensils~~
 * ~~Hang the spice jar rack in the pantry~~
 * ~~Clean out the pantry~~
