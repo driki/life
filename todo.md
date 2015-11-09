@@ -1,26 +1,15 @@
-* ~~extract hard drive from 20" iMac~~
-* ~~buy external hard drive dock~~
-* ~~transfer files from iMac hard drive to other computers~~
-* ~~setup external offsite backup~~
-* weed unused clothes from drawers
-* ~~Buy two new smoke/CO2 detectors~~
 * repair/replace windows in the dining room
 * fix/replace ceiling fan in the dining room
 * Get handyman to look at the crack in the floor in front of the fireplace
 * Bathroom, patch the hole in the wall
 * Bathroom, clean the ceiling 
-* ~~Bathroom, fix the back toilet seat~~
-* Find a screen for the large family room window
-* Patch or replace the screens that have holes
-* Hang the spice jar rack in the pantry
-* Clean out the pantry
 * paint the walls and fix the edges/corners that the kids have dinged up
 * Dust the high places that haven't been dusted in a while
 * Have someone tell us if the wall cracks in the kitchen are a big deal
 * Fix the stink pipe in the basement
-* Clean out the shed
-* ~~Remove the yard waste~~
-* Purge basement stuff, moldy hockey equipment for sure
+* Find a screen for the large family room window
+* Patch or replace the screens that have holes
+* weed unused clothes from drawers
 * Sharpen lawn mower blades
 * Update our will
 * Consolidate our financial accounts, get them all in the same place
@@ -32,4 +21,15 @@
 * Clean the oven sides
 * Wash the windows
 * Purge the game closet of unused, old games that we don't play anymore
-* Bring old music CD's to be sold
+* ~~Hang the spice jar rack in the pantry~~
+* ~~Clean out the pantry~~
+* ~~Bathroom, fix the back toilet seat~~
+* ~~Clean out the shed~~
+* ~~Remove the yard waste~~
+* ~~Purge basement stuff, moldy hockey equipment for sure~~
+* ~~extract hard drive from 20" iMac~~
+* ~~buy external hard drive dock~~
+* ~~transfer files from iMac hard drive to other computers~~
+* ~~setup external offsite backup~~
+* ~~Bring old music CD's to be sold~~
+* ~~Buy two new smoke/CO2 detectors~~
