@@ -5,17 +5,32 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
-    <title>RadioPublic Spotlight</title>
+    <title>Spotlight from RadioPublic.</title>
     <link>http://www.radiopublic.com/spotlight.xml</link>
-    <description>A blended playlist of shows that you might like.</description>
+    <description>Previews and trailers for podcasts and radio shows.</description>
     <language>en-us</language>
     <copyright>Copyright 2016</copyright>
     <lastBuildDate>Tue, 01 Mar 2016 00:00:00 -0500</lastBuildDate>
     <image>
       <url>http://www.example.com/images/app_rss_logo.jpg</url>
-      <title>Same as podcast title</title>
+      <title>Spotlight from RadioPublic.</title>
       <link>http://www.radiopublic.com/spotlight.xml</link>
     </image>
+    <item>
+      <title>PTI - If you enjoy ESPN, SportsCenter and sports talk radio.</title>
+      <link>http://espn.go.com/espnradio/podcast/archive?id=2406595</link>
+      <description>Tony Kornheiser and Michael Wilbon face off on the day's hottest topics.</description>
+      <enclosure url="http://c.espnradio.com/s:5L8r1/audio/2692924/pti_2016-02-29-180724.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CMidroll3%2CMidroll4%2CMidroll5%2CMidroll6%2CPostroll%2CPostroll2%7Cstation_id%3D674"
+        length="5900814"
+        type="audio/mp3"/>
+      <pubDate>Mon, 29 Feb 2016 11:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://espn.go.com/espnradio/podcast/archive?id=2406595</guid>
+      <dc:date>2016-02-29T11:00:00Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>PTI, ESPN, Pardon The Interruption, michael wilbon, tony kornheiser</itunes:keywords>
+      <itunes:subtitle>PTI - If you enjoy ESPN, SportsCenter and sports talk radio.</itunes:subtitle>
+      <itunes:summary>Tony Kornheiser and Michael Wilbon face off on the day's hottest topics.</itunes:summary>
+    </item>
     <item>
       <title>Ace on the House - If you enjoyed the Man Show</title>
       <link>http://aceonthehouse.adamcarolla.com</link>
@@ -26,7 +41,7 @@
       <pubDate>Sun, 28 Feb 2016 04:59:48 -0000</pubDate>
       <guid isPermaLink="true">http://aceonthehouse.adamcarolla.com</guid>
       <dc:date>2016-02-28T04:59:48Z</dc:date>
-      <itunes:explicit>No</itunes:explicit>
+      <itunes:explicit>Yes</itunes:explicit>
       <itunes:subtitle>Ace on the House - If you enjoyed the Man Show</itunes:subtitle>
       <itunes:summary>Adam Carolla's Construction Podcast</itunes:summary>
     </item>
@@ -40,7 +55,7 @@
       <pubDate>Fri, 26 Feb 2016 23:43:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.npr.org/podcasts/510289/planet-money</guid>
       <dc:date>2016-02-26T23:43:00Z</dc:date>
-      <itunes:explicit>No</itunes:explicit>
+      <itunes:explicit>Yes</itunes:explicit>
       <itunes:subtitle>Planet Money - If you enjoy Bloomberg TV and the movies The Big Short and Moneyball</itunes:subtitle>
       <itunes:summary>Money makes the world go around, faster and faster every day. On NPR's Planet Money, you'll meet high rollers, brainy economists and regular folks — all trying to make sense of our rapidly changing global economy.</itunes:summary>
     </item>
@@ -50,7 +65,7 @@
       <pubDate>Fri, 26 Feb 2016 01:59:14 -0000</pubDate>
       <guid isPermaLink="true">http://podcasts.joerogan.net</guid>
       <dc:date>2016-02-26T01:59:14Z</dc:date>
-      <itunes:explicit>No</itunes:explicit>
+      <itunes:explicit>Yes</itunes:explicit>
       <itunes:subtitle>Joe Rogan Experience - If you enjoyed Fear Factor, The Man Show and UFC Ultimate Insider</itunes:subtitle>
     </item>
     <item>
@@ -63,7 +78,7 @@
       <pubDate>Tue, 23 Feb 2016 06:00:11 -0000</pubDate>
       <guid isPermaLink="true">http://themoth.org</guid>
       <dc:date>2016-02-23T06:00:11Z</dc:date>
-      <itunes:explicit>No</itunes:explicit>
+      <itunes:explicit>Yes</itunes:explicit>
       <itunes:keywords>Podcasts, WNYC</itunes:keywords>
       <itunes:subtitle>The Moth - Popular with people who love funny, sad and inspirational stories that move you.</itunes:subtitle>
       <itunes:summary>Since its launch in 1997, The Moth has presented thousands of true stories, told live and without notes, to standing-room-only crowds worldwide. Moth storytellers stand alone, under a spotlight, with only a microphone and a roomful of strangers. The storyteller and the audience embark on a high-wire act of shared experience which is both terrifying and exhilarating. Since 2008, The Moth podcast has featured many of our favorite stories told live on Moth stages around the country. For information on all of our programs and live events, visit themoth.org.</itunes:summary>
@@ -78,7 +93,7 @@
       <pubDate>Mon, 07 Dec 2015 16:28:28 -0000</pubDate>
       <guid isPermaLink="true">http://www.wbur.org/series/modernlove</guid>
       <dc:date>2015-12-07T16:28:28Z</dc:date>
-      <itunes:explicit>No</itunes:explicit>
+      <itunes:explicit>Yes</itunes:explicit>
       <itunes:subtitle>Modern Love - If you enjoy Sex and the City, Broad City, Girls</itunes:subtitle>
       <itunes:summary>Explore the joys and tribulations of love in these deeply personal essays. A collaboration of The New York Times and WBUR in Boston, Modern Love: The Podcast features the popular New York Times column, with readings by notable personalities and updates from the essayists themselves. Join host Meghna Chakrabarti (WBUR) and Modern Love editor Daniel Jones (NYT) and fall in love at first listen.</itunes:summary>
     </item>
@@ -92,7 +107,7 @@
       <pubDate>Fri, 03 Oct 2014 13:45:00 -0000</pubDate>
       <guid isPermaLink="true">https://www.serialpodcast.org</guid>
       <dc:date>2014-10-03T13:45:00Z</dc:date>
-      <itunes:explicit>No</itunes:explicit>
+      <itunes:explicit>Yes</itunes:explicit>
       <itunes:subtitle>Serial - If you enjoy Dateline NBC, 48 Hours, 20/20, 60 Minutes</itunes:subtitle>
       <itunes:summary>Serial is a podcast from the creators of This American Life, hosted by Sarah Koenig. Serial unfolds one story - a true story - over the course of a whole season. The show follows the plot and characters wherever they lead, through many surprising twists and turns. Sarah won't know what happens at the end of the story until she gets there, not long before you get there with her. Each week she'll bring you the latest chapter, so it's important to listen in, starting with Episode 1. New episodes are released on Thursday mornings.</itunes:summary>
     </item>
@@ -106,7 +121,7 @@
       <pubDate>Thu, 23 Sep 2010 21:05:21 -0000</pubDate>
       <guid isPermaLink="true">http://99percentinvisible.org</guid>
       <dc:date>2010-09-23T21:05:21Z</dc:date>
-      <itunes:explicit>No</itunes:explicit>
+      <itunes:explicit>Yes</itunes:explicit>
       <itunes:subtitle>99% Invisible - Popular with designers, architects, engineers and people who like the TV show How Stuff Works.</itunes:subtitle>
       <itunes:summary>Design is everywhere in our lives, perhaps most importantly in the places where we’ve just stopped noticing. 99% Invisible (99 Percent Invisible) is a weekly exploration of the process and power of design and architecture. From award winning producer Roman Mars, KALW in San Francisco, and Radiotopia from PRX. Learn more: http://99percentinvisible.org  Proud member of PRX’s Radiotopia.</itunes:summary>
     </item>
@@ -116,12 +131,12 @@
     <itunes:image href="/path/to/logo.png"/>
     <itunes:owner>
       <itunes:name>RadioPublic</itunes:name>
-      <itunes:email>feeds@radiopublic.com</itunes:email>
+      <itunes:email>spotlight@radiopublic.com</itunes:email>
     </itunes:owner>
     <itunes:author>Matt MacDonald</itunes:author>
     <itunes:explicit>No</itunes:explicit>
-    <itunes:keywords>Common, Misspellings, of, Key, Words</itunes:keywords>
-    <itunes:subtitle>Highlighting great shows.</itunes:subtitle>
-    <itunes:summary>Spotlight, from RadioPublic highlights shows that we think you'd like.</itunes:summary>
+    <itunes:keywords>trailers, previews, snippets, shows</itunes:keywords>
+    <itunes:subtitle>Highlighting great podcasts and radio shows.</itunes:subtitle>
+    <itunes:summary>Spotlight from RadioPublic highlights podcasts and shows that we think you'd like.</itunes:summary>
   </channel>
 </rss>
