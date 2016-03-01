@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>My liked shows</title>
+    <link>http://www.radiopublic.com/matt/likes.xml</link>
+    <description>A blended playlist of shows that I like.</description>
+    <language>en-us</language>
+    <copyright>Copyright 2016</copyright>
+    <lastBuildDate>Tue, 01 Mar 2016 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>http://www.example.com/images/app_rss_logo.jpg</url>
+      <title>Same as podcast title</title>
+      <link>http://www.radiopublic.com/matt/likes.xml</link>
+    </image>
+    <item>
+      <title>This week on All Songs: The best new songs of the week, an interview with Mitski and a first look at some of the great music we'll hear at SXSW 2016.</title>
+      <link>http://play.podtrac.com/npr-510019/npr.mc.tritondigital.com/ALLSONGS_PODCAST/media/anon.npr-mp3/npr/asc/2016/03/20160301_asc_wholeshow.mp3?orgId=1&amp;d=2757&amp;p=510019&amp;story=468737217&amp;t=podcast&amp;e=468737217&amp;ft=pod&amp;f=510019</link>
+      <description>This week on All Songs: The best new songs of the week, an interview with Mitski and a first look at some of the great music we'll hear at SXSW 2016.</description>
+      <enclosure url="http://play.podtrac.com/npr-510019/npr.mc.tritondigital.com/ALLSONGS_PODCAST/media/anon.npr-mp3/npr/asc/2016/03/20160301_asc_wholeshow.mp3?orgId=1&amp;d=2757&amp;p=510019&amp;story=468737217&amp;t=podcast&amp;e=468737217&amp;ft=pod&amp;f=510019"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 01 Mar 2016 19:23:00 -0000</pubDate>
+      <guid isPermaLink="true">http://play.podtrac.com/npr-510019/npr.mc.tritondigital.com/ALLSONGS_PODCAST/media/anon.npr-mp3/npr/asc/2016/03/20160301_asc_wholeshow.mp3?orgId=1&amp;d=2757&amp;p=510019&amp;story=468737217&amp;t=podcast&amp;e=468737217&amp;ft=pod&amp;f=510019</guid>
+      <dc:date>2016-03-01T19:23:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>New Mix: Music From M. Ward, Nothing, Marissa Nadler, A Chat With Mitski &amp; More</itunes:subtitle>
+      <itunes:summary>This week on All Songs: The best new songs of the week, an interview with Mitski and a first look at some of the great music we'll hear at SXSW 2016.</itunes:summary>
+    </item>
+    <item>
+      <title>Deutsche Börse is seeking to merge with the London Stock Exchange, potentially creating an important bridge between the London and Frankfurt financial centres. But it is not the only prospective bidder.  Patrick Jenkins, FT financial editor, discusses the development and its implications for investment banks with Lee McCormack,  market infrastructure expert, and Laura Noonan, FT investment banking correspondent. Music by Kevin MacLeod</title>
+      <link>http://rss.acast.com/ft-news/deutscheborseseeksmergerwithlondonstockexchange/media.mp3</link>
+      <description>Deutsche Börse is seeking to merge with the London Stock Exchange, potentially creating an important bridge between the London and Frankfurt financial centres. But it is not the only prospective bidder.  Patrick Jenkins, FT financial editor, discusses the development and its implications for investment banks with Lee McCormack,  market infrastructure expert, and Laura Noonan, FT investment banking correspondent. Music by Kevin MacLeod</description>
+      <enclosure url="http://rss.acast.com/ft-news/deutscheborseseeksmergerwithlondonstockexchange/media.mp3"
+        length="7278573"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 01 Mar 2016 16:02:00 -0000</pubDate>
+      <guid isPermaLink="true">http://rss.acast.com/ft-news/deutscheborseseeksmergerwithlondonstockexchange/media.mp3</guid>
+      <dc:date>2016-03-01T16:02:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Deutsche Börse seeks merger with London Stock Exchange</itunes:subtitle>
+      <itunes:summary>Deutsche Börse is seeking to merge with the London Stock Exchange, potentially creating an important bridge between the London and Frankfurt financial centres. But it is not the only prospective bidder.  Patrick Jenkins, FT financial editor, discusses the development and its implications for investment banks with Lee McCormack,  market infrastructure expert, and Laura Noonan, FT investment banking correspondent. Music by Kevin MacLeod</itunes:summary>
+    </item>
+    <item>
+      <title>Gene and Linda from Bob's Burgers (aka Eugene Mirman and John Roberts, respectively) grace the stude. Plus: a short recap of the Oscars, Stacy's Career Corner tackles internships, and Tracy's plant is trying to kill her.</title>
+      <link>http://rss.acast.com/anotherround/episode44-mommyssidepiece/media.mp3</link>
+      <description>Gene and Linda from Bob's Burgers (aka Eugene Mirman and John Roberts, respectively) grace the stude. Plus: a short recap of the Oscars, Stacy's Career Corner tackles internships, and Tracy's plant is trying to kill her.</description>
+      <enclosure url="http://rss.acast.com/anotherround/episode44-mommyssidepiece/media.mp3"
+        length="60893804"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 01 Mar 2016 10:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://rss.acast.com/anotherround/episode44-mommyssidepiece/media.mp3</guid>
+      <dc:date>2016-03-01T10:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Episode 44: Mommy's Side Piece </itunes:subtitle>
+      <itunes:summary>Gene and Linda from Bob's Burgers (aka Eugene Mirman and John Roberts, respectively) grace the stude. Plus: a short recap of the Oscars, Stacy's Career Corner tackles internships, and Tracy's plant is trying to kill her.</itunes:summary>
+    </item>
+    <item>
+      <title>&lt;p&gt;Ellen Page is every bit as brilliant and cool as you've heard. The Oscar-nominated actress hangs out with Anna and Sim in this week's Episode, discussing Ellen's experience eating dog food, Anna's knowledge of Canadian provinces, and why it's Anna's dream to become a flight attendant. Ellen also talks about her new docu-series, GAYCATION, which literally moved Anna to tears. And you won't want to miss this week's calls! First, the gang offers unqualified advice to a woman who still has intense feelings for her first love...with whom she happens to work...even though she's engaged to another man and just had a child with him! They also help a male caller decide whether to bring a date to a wedding where he'll see his longtime crush with her new boyfriend! And you won't want to miss what Anna blurted out at a McDonald's outing with Chris! This episode is a MUST listen!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Credits:&lt;/p&gt;
+&lt;p&gt;Co-host and Produced by: Sim Sarna&lt;br /&gt;Technical Producer: Mike Flinn&lt;br /&gt;Theme song by: Mondo Cozmo&lt;br /&gt;Website by: Will Plyer&lt;br /&gt;twitter: @annafarispod&lt;br /&gt;IG: annafarispod&lt;br /&gt;facebook.com/annafarisisunqualified&lt;br /&gt;http://www.annafarisisunqualified.com&lt;/p&gt;</title>
+      <link>http://traffic.libsyn.com/annafarisisunqualified/ep_16__Ellen_Page.mp3</link>
+      <description>&lt;p&gt;Ellen Page is every bit as brilliant and cool as you've heard. The Oscar-nominated actress hangs out with Anna and Sim in this week's Episode, discussing Ellen's experience eating dog food, Anna's knowledge of Canadian provinces, and why it's Anna's dream to become a flight attendant. Ellen also talks about her new docu-series, GAYCATION, which literally moved Anna to tears. And you won't want to miss this week's calls! First, the gang offers unqualified advice to a woman who still has intense feelings for her first love...with whom she happens to work...even though she's engaged to another man and just had a child with him! They also help a male caller decide whether to bring a date to a wedding where he'll see his longtime crush with her new boyfriend! And you won't want to miss what Anna blurted out at a McDonald's outing with Chris! This episode is a MUST listen!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Credits:&lt;/p&gt;
+&lt;p&gt;Co-host and Produced by: Sim Sarna&lt;br /&gt;Technical Producer: Mike Flinn&lt;br /&gt;Theme song by: Mondo Cozmo&lt;br /&gt;Website by: Will Plyer&lt;br /&gt;twitter: @annafarispod&lt;br /&gt;IG: annafarispod&lt;br /&gt;facebook.com/annafarisisunqualified&lt;br /&gt;http://www.annafarisisunqualified.com&lt;/p&gt;</description>
+      <enclosure url="http://traffic.libsyn.com/annafarisisunqualified/ep_16__Ellen_Page.mp3"
+        length="34108214"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 01 Mar 2016 07:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://traffic.libsyn.com/annafarisisunqualified/ep_16__Ellen_Page.mp3</guid>
+      <dc:date>2016-03-01T07:30:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>ep 16: Ellen Page</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Ellen Page is every bit as brilliant and cool as you've heard. The Oscar-nominated actress hangs out with Anna and Sim in this week's Episode, discussing Ellen's experience eating dog food, Anna's knowledge of Canadian provinces, and why it's Anna's dream to become a flight attendant. Ellen also talks about her new docu-series, GAYCATION, which literally moved Anna to tears. And you won't want to miss this week's calls! First, the gang offers unqualified advice to a woman who still has intense feelings for her first love...with whom she happens to work...even though she's engaged to another man and just had a child with him! They also help a male caller decide whether to bring a date to a wedding where he'll see his longtime crush with her new boyfriend! And you won't want to miss what Anna blurted out at a McDonald's outing with Chris! This episode is a MUST listen!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Credits:&lt;/p&gt;
+&lt;p&gt;Co-host and Produced by: Sim Sarna&lt;br /&gt;Technical Producer: Mike Flinn&lt;br /&gt;Theme song by: Mondo Cozmo&lt;br /&gt;Website by: Will Plyer&lt;br /&gt;twitter: @annafarispod&lt;br /&gt;IG: annafarispod&lt;br /&gt;facebook.com/annafarisisunqualified&lt;br /&gt;http://www.annafarisisunqualified.com&lt;/p&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>A look at how china is handling their slow economy; how the Dow/DuPont merger is affecting communities in West Virgina; and is Warren Buffett's positive outlook on the American economy shared by most people?</title>
+      <link>http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/RrWzXDdBz8M/pm_20160229_pod_64.mp3</link>
+      <description>A look at how china is handling their slow economy; how the Dow/DuPont merger is affecting communities in West Virgina; and is Warren Buffett's positive outlook on the American economy shared by most people?</description>
+      <enclosure url="http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/RrWzXDdBz8M/pm_20160229_pod_64.mp3"
+        length="12610947"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/RrWzXDdBz8M/pm_20160229_pod_64.mp3</guid>
+      <dc:date>2016-03-01T00:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>02-29-16 - Marketplace - Warren Buffett&amp;#039;s economy</itunes:subtitle>
+      <itunes:summary>A look at how china is handling their slow economy; how the Dow/DuPont merger is affecting communities in West Virgina; and is Warren Buffett's positive outlook on the American economy shared by most people?</itunes:summary>
+    </item>
+    <item>
+      <title>Journalist Nancy Jo Sales says the Internet fosters a kind of sexism that is harmful to teen girls. Her new book is 'American Girls: Social Media and the Secret Lives of Teenagers.' Also, author Victor LaValle loved reading the horror stories of H.P. Lovecraft as a kid. It wasn't until later that LaValle recognized the racism in Lovecraft's work and felt the need to respond. His new book is 'The Ballad of Black Tom.'</title>
+      <link>http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/468610710/npr_468610710.mp3?orgId=1&amp;d=2891&amp;p=381444908&amp;story=468610710&amp;t=podcast&amp;e=468610710&amp;ft=pod&amp;f=381444908</link>
+      <description>Journalist Nancy Jo Sales says the Internet fosters a kind of sexism that is harmful to teen girls. Her new book is 'American Girls: Social Media and the Secret Lives of Teenagers.' Also, author Victor LaValle loved reading the horror stories of H.P. Lovecraft as a kid. It wasn't until later that LaValle recognized the racism in Lovecraft's work and felt the need to respond. His new book is 'The Ballad of Black Tom.'</description>
+      <enclosure url="http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/468610710/npr_468610710.mp3?orgId=1&amp;d=2891&amp;p=381444908&amp;story=468610710&amp;t=podcast&amp;e=468610710&amp;ft=pod&amp;f=381444908"
+        length="23127440"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 29 Feb 2016 21:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/468610710/npr_468610710.mp3?orgId=1&amp;d=2891&amp;p=381444908&amp;story=468610710&amp;t=podcast&amp;e=468610710&amp;ft=pod&amp;f=381444908</guid>
+      <dc:date>2016-02-29T21:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>The 'Secret Lives' Of American Girls / Author Victor LaValle</itunes:subtitle>
+      <itunes:summary>Journalist Nancy Jo Sales says the Internet fosters a kind of sexism that is harmful to teen girls. Her new book is 'American Girls: Social Media and the Secret Lives of Teenagers.' Also, author Victor LaValle loved reading the horror stories of H.P. Lovecraft as a kid. It wasn't until later that LaValle recognized the racism in Lovecraft's work and felt the need to respond. His new book is 'The Ballad of Black Tom.'</itunes:summary>
+    </item>
+    <item>
+      <title>Your guide to the biggest day of the 2016 election so far. Are Trump and Clinton inevitable?</title>
+      <link>http://c.espnradio.com/s:J1X3L/audio/2692891/fivethirtyeightelections_2016-02-29-173431.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CMidroll3%2CMidroll4%2CMidroll5%2CMidroll6%2CPostroll%2CPostroll2%7Cstation_id%3D4278</link>
+      <description>Your guide to the biggest day of the 2016 election so far. Are Trump and Clinton inevitable?</description>
+      <enclosure url="http://c.espnradio.com/s:J1X3L/audio/2692891/fivethirtyeightelections_2016-02-29-173431.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CMidroll3%2CMidroll4%2CMidroll5%2CMidroll6%2CPostroll%2CPostroll2%7Cstation_id%3D4278"
+        length="0"
+        type="audio/mp3"/>
+      <pubDate>Mon, 29 Feb 2016 11:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://c.espnradio.com/s:J1X3L/audio/2692891/fivethirtyeightelections_2016-02-29-173431.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CMidroll3%2CMidroll4%2CMidroll5%2CMidroll6%2CPostroll%2CPostroll2%7Cstation_id%3D4278</guid>
+      <dc:date>2016-02-29T11:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>null</itunes:keywords>
+      <itunes:subtitle>Super Tuesday Is Here: 2/29/16</itunes:subtitle>
+      <itunes:summary>Your guide to the biggest day of the 2016 election so far. Are Trump and Clinton inevitable?</itunes:summary>
+    </item>
+    <item>
+      <title>It's February 29th and you know what TIME that is! It's TIME for Maxwell Keeper aka The Time Keeper to join Scott once again on a very special Leap Year Celebration episode of Comedy Bang! Bang! The Time Keeper brings along The Sun Dialer, The Clock...</title>
+      <link>http://feeds.soundcloud.com/stream/249410031-comedybangbang-404-neil-campbell-jessica-jean-jardine-ronnie-adrian-betsy-sodaro-carl-tart-tim-kalpakis.mp3</link>
+      <description>It's February 29th and you know what TIME that is! It's TIME for Maxwell Keeper aka The Time Keeper to join Scott once again on a very special Leap Year Celebration episode of Comedy Bang! Bang! The Time Keeper brings along The Sun Dialer, The Clock...</description>
+      <enclosure url="http://feeds.soundcloud.com/stream/249410031-comedybangbang-404-neil-campbell-jessica-jean-jardine-ronnie-adrian-betsy-sodaro-carl-tart-tim-kalpakis.mp3"
+        length="73204528"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 29 Feb 2016 08:04:56 -0000</pubDate>
+      <guid isPermaLink="true">http://feeds.soundcloud.com/stream/249410031-comedybangbang-404-neil-campbell-jessica-jean-jardine-ronnie-adrian-betsy-sodaro-carl-tart-tim-kalpakis.mp3</guid>
+      <dc:date>2016-02-29T08:04:56Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>404 Neil Campbell, Jessica Jean Jardine, Ronnie Adrian, Betsy Sodaro, Carl Tart, Tim Kalpakis</itunes:subtitle>
+      <itunes:summary>It's February 29th and you know what TIME that is! It's TIME for Maxwell Keeper aka The Time Keeper to join Scott once again on a very special Leap Year Celebration episode of Comedy Bang! Bang! The Time Keeper brings along The Sun Dialer, The Clock...</itunes:summary>
+    </item>
+    <item>
+      <title>Ray and Stromer discuss the best ‘bang for your buck’ home improvements. They also chat about opening up your ceiling, guys who are too relaxed on the job site, and how to deal with termite damage. Show Summary Ray and Stromer open the show talking about Eric’s family routine, and complaining about guys who are [&amp;#8230;]</title>
+      <link>http://serve.castfire.com/audio/2688992/2688992_2016-02-26-133432.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CPostroll%2CPostroll2%7Cstation_id%3D1719&amp;type=.mp3</link>
+      <description>Ray and Stromer discuss the best ‘bang for your buck’ home improvements. They also chat about opening up your ceiling, guys who are too relaxed on the job site, and how to deal with termite damage. Show Summary Ray and Stromer open the show talking about Eric’s family routine, and complaining about guys who are [&amp;#8230;]</description>
+      <enclosure url="http://serve.castfire.com/audio/2688992/2688992_2016-02-26-133432.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CPostroll%2CPostroll2%7Cstation_id%3D1719&amp;type=.mp3"
+        length="5242880"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 28 Feb 2016 04:59:48 -0000</pubDate>
+      <guid isPermaLink="true">http://serve.castfire.com/audio/2688992/2688992_2016-02-26-133432.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CPostroll%2CPostroll2%7Cstation_id%3D1719&amp;type=.mp3</guid>
+      <dc:date>2016-02-28T04:59:48Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>3 Miles Away, 20 Minutes Late</itunes:subtitle>
+      <itunes:summary>Ray and Stromer discuss the best ‘bang for your buck’ home improvements. They also chat about opening up your ceiling, guys who are too relaxed on the job site, and how to deal with termite damage. Show Summary Ray and Stromer open the show talking about Eric’s family routine, and complaining about guys who are [&amp;#8230;]</itunes:summary>
+    </item>
+    <item>
+      <title>There is an epidemic of terrible doors in the world. But when Don Norman got frustrated with them, he ended up changing the way people everywhere think about design.
+
+Video by Joe Posner of Vox, featuring Roman Mars of 99% Invisible.</title>
+      <link>http://feeds.99percentinvisible.org/~r/99percentinvisible/~5/2Z3r1k0vKdA/The-Norman-Door-with-Vox.mp4</link>
+      <description>There is an epidemic of terrible doors in the world. But when Don Norman got frustrated with them, he ended up changing the way people everywhere think about design.
+
+Video by Joe Posner of Vox, featuring Roman Mars of 99% Invisible.</description>
+      <enclosure url="http://feeds.99percentinvisible.org/~r/99percentinvisible/~5/2Z3r1k0vKdA/The-Norman-Door-with-Vox.mp4"
+        length="69368827"
+        type="video/mp4"/>
+      <pubDate>Sat, 27 Feb 2016 20:05:21 -0000</pubDate>
+      <guid isPermaLink="true">http://feeds.99percentinvisible.org/~r/99percentinvisible/~5/2Z3r1k0vKdA/The-Norman-Door-with-Vox.mp4</guid>
+      <dc:date>2016-02-27T20:05:21Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Video- The Norman Door with Vox</itunes:subtitle>
+      <itunes:summary>There is an epidemic of terrible doors in the world. But when Don Norman got frustrated with them, he ended up changing the way people everywhere think about design.
+
+Video by Joe Posner of Vox, featuring Roman Mars of 99% Invisible.</itunes:summary>
+    </item>
+    <item>
+      <title>Even the best Puzzle Masters make an occasional mistake. But Martin Gardner and Will Shortz probably never had one of their errors exposed as dramatically (and hilariously) as Ray's recent mango tree Puzzler. Find out how it plays out, this week on the Best of Car Talk. Elsewhere, Robert's Mercedes dealer gave him a blanket and pen to apologize for over-filling his engine with oil. Should Robert have asked them to wrap a new engine in that blanket? Also, Carey thinks her husband's downshifting advice may be responsible for her Expedition's clunk, but the noise may have more to do with the 9,000 pounds of barbecue equipment Carey is hauling around; and, a tale of what happens when overly-encumbered by the thought process engineers try to paint an apartment. All this and more, this week on The Best of Car Talk.</title>
+      <link>http://play.podtrac.com/npr-510208/npr.mc.tritondigital.com/NPR_510208/media/anon.npr-podcasts/podcast/510208/468398426/npr_468398426.mp3?orgId=1&amp;d=3244&amp;p=510208&amp;story=468398426&amp;t=podcast&amp;e=468398426&amp;ft=pod&amp;f=510208</link>
+      <description>Even the best Puzzle Masters make an occasional mistake. But Martin Gardner and Will Shortz probably never had one of their errors exposed as dramatically (and hilariously) as Ray's recent mango tree Puzzler. Find out how it plays out, this week on the Best of Car Talk. Elsewhere, Robert's Mercedes dealer gave him a blanket and pen to apologize for over-filling his engine with oil. Should Robert have asked them to wrap a new engine in that blanket? Also, Carey thinks her husband's downshifting advice may be responsible for her Expedition's clunk, but the noise may have more to do with the 9,000 pounds of barbecue equipment Carey is hauling around; and, a tale of what happens when overly-encumbered by the thought process engineers try to paint an apartment. All this and more, this week on The Best of Car Talk.</description>
+      <enclosure url="http://play.podtrac.com/npr-510208/npr.mc.tritondigital.com/NPR_510208/media/anon.npr-podcasts/podcast/510208/468398426/npr_468398426.mp3?orgId=1&amp;d=3244&amp;p=510208&amp;story=468398426&amp;t=podcast&amp;e=468398426&amp;ft=pod&amp;f=510208"
+        length="25952420"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 27 Feb 2016 19:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://play.podtrac.com/npr-510208/npr.mc.tritondigital.com/NPR_510208/media/anon.npr-podcasts/podcast/510208/468398426/npr_468398426.mp3?orgId=1&amp;d=3244&amp;p=510208&amp;story=468398426&amp;t=podcast&amp;e=468398426&amp;ft=pod&amp;f=510208</guid>
+      <dc:date>2016-02-27T19:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>#1609: You Can't Do it Unless the Number is Two</itunes:subtitle>
+      <itunes:summary>Even the best Puzzle Masters make an occasional mistake. But Martin Gardner and Will Shortz probably never had one of their errors exposed as dramatically (and hilariously) as Ray's recent mango tree Puzzler. Find out how it plays out, this week on the Best of Car Talk. Elsewhere, Robert's Mercedes dealer gave him a blanket and pen to apologize for over-filling his engine with oil. Should Robert have asked them to wrap a new engine in that blanket? Also, Carey thinks her husband's downshifting advice may be responsible for her Expedition's clunk, but the noise may have more to do with the 9,000 pounds of barbecue equipment Carey is hauling around; and, a tale of what happens when overly-encumbered by the thought process engineers try to paint an apartment. All this and more, this week on The Best of Car Talk.</itunes:summary>
+    </item>
+    <item>
+      <title>Adam deals with his eye while Ray deals with his burned finger. The guys also discuss installing a urinal in your bathroom, and what size home is best to raise your family. Show Summary At the top of the show, Adam complains about the weird infection in his eye. Ray talks about his current projects, [&amp;#8230;]</title>
+      <link>http://serve.castfire.com/audio/2688984/2688984_2016-02-26-132924.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CPostroll%2CPostroll2%7Cstation_id%3D1719&amp;type=.mp3</link>
+      <description>Adam deals with his eye while Ray deals with his burned finger. The guys also discuss installing a urinal in your bathroom, and what size home is best to raise your family. Show Summary At the top of the show, Adam complains about the weird infection in his eye. Ray talks about his current projects, [&amp;#8230;]</description>
+      <enclosure url="http://serve.castfire.com/audio/2688984/2688984_2016-02-26-132924.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CPostroll%2CPostroll2%7Cstation_id%3D1719&amp;type=.mp3"
+        length="5242880"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 27 Feb 2016 04:59:20 -0000</pubDate>
+      <guid isPermaLink="true">http://serve.castfire.com/audio/2688984/2688984_2016-02-26-132924.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CPostroll%2CPostroll2%7Cstation_id%3D1719&amp;type=.mp3</guid>
+      <dc:date>2016-02-27T04:59:20Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Crying Pig</itunes:subtitle>
+      <itunes:summary>Adam deals with his eye while Ray deals with his burned finger. The guys also discuss installing a urinal in your bathroom, and what size home is best to raise your family. Show Summary At the top of the show, Adam complains about the weird infection in his eye. Ray talks about his current projects, [&amp;#8230;]</itunes:summary>
+    </item>
+    <item>
+      <title>In this episode, the Sugars take two questions on the dynamics of gender, power, and love — one from a man and one from a woman. A young man struggles with jealousy when his girlfriend gets a career opportunity he wants for himself, and a woman finds she's no longer attracted to her husband now that he's not the breadwinner. </title>
+      <link>http://www.podtrac.com/pts/redirect.mp3/audio.wbur.org/storage/2016/02/dearsugar_0226_dear-sugar-episode-forty-four.mp3</link>
+      <description>In this episode, the Sugars take two questions on the dynamics of gender, power, and love — one from a man and one from a woman. A young man struggles with jealousy when his girlfriend gets a career opportunity he wants for himself, and a woman finds she's no longer attracted to her husband now that he's not the breadwinner. </description>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/audio.wbur.org/storage/2016/02/dearsugar_0226_dear-sugar-episode-forty-four.mp3"
+        length="35201023"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 27 Feb 2016 02:54:27 -0000</pubDate>
+      <guid isPermaLink="true">http://www.podtrac.com/pts/redirect.mp3/audio.wbur.org/storage/2016/02/dearsugar_0226_dear-sugar-episode-forty-four.mp3</guid>
+      <dc:date>2016-02-27T02:54:27Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Powerful Women And The Men Who Love Them</itunes:subtitle>
+      <itunes:summary>In this episode, the Sugars take two questions on the dynamics of gender, power, and love — one from a man and one from a woman. A young man struggles with jealousy when his girlfriend gets a career opportunity he wants for himself, and a woman finds she's no longer attracted to her husband now that he's not the breadwinner. </itunes:summary>
+    </item>
+    <item>
+      <title>Known for her recent work in 'Downton Abbey' and the 'Harry Potter' films, the Oscar-winning actress now stars in 'The Lady in the Van,' a film about an elderly woman who lived in a van for 15 years.  Jazz critic Kevin Whitehead reviews 'All My Yesterdays' by Thad Jones and Mel Lewis. Also, author Joe R. Lansdale grew up poor in east Texas and worked as a janitor and in a potato field before finding success as a writer. 'Honky Tonk Samurai' is the latest book in his 'Hap and Leonard' mystery series.</title>
+      <link>http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/468332438/npr_468332438.mp3?orgId=1&amp;d=2975&amp;p=381444908&amp;story=468332438&amp;t=podcast&amp;e=468332438&amp;ft=pod&amp;f=381444908</link>
+      <description>Known for her recent work in 'Downton Abbey' and the 'Harry Potter' films, the Oscar-winning actress now stars in 'The Lady in the Van,' a film about an elderly woman who lived in a van for 15 years.  Jazz critic Kevin Whitehead reviews 'All My Yesterdays' by Thad Jones and Mel Lewis. Also, author Joe R. Lansdale grew up poor in east Texas and worked as a janitor and in a potato field before finding success as a writer. 'Honky Tonk Samurai' is the latest book in his 'Hap and Leonard' mystery series.</description>
+      <enclosure url="http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/468332438/npr_468332438.mp3?orgId=1&amp;d=2975&amp;p=381444908&amp;story=468332438&amp;t=podcast&amp;e=468332438&amp;ft=pod&amp;f=381444908"
+        length="23796992"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 27 Feb 2016 01:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/468332438/npr_468332438.mp3?orgId=1&amp;d=2975&amp;p=381444908&amp;story=468332438&amp;t=podcast&amp;e=468332438&amp;ft=pod&amp;f=381444908</guid>
+      <dc:date>2016-02-27T01:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Best Of: Maggie Smith / 'Hap And Leonard' Mystery Writer</itunes:subtitle>
+      <itunes:summary>Known for her recent work in 'Downton Abbey' and the 'Harry Potter' films, the Oscar-winning actress now stars in 'The Lady in the Van,' a film about an elderly woman who lived in a van for 15 years.  Jazz critic Kevin Whitehead reviews 'All My Yesterdays' by Thad Jones and Mel Lewis. Also, author Joe R. Lansdale grew up poor in east Texas and worked as a janitor and in a potato field before finding success as a writer. 'Honky Tonk Samurai' is the latest book in his 'Hap and Leonard' mystery series.</itunes:summary>
+    </item>
+    <item>
+      <title>Marco Rubio called out Donald Trump for his &quot;fake&quot; university; why Warren Buffet's earnings letter is so exciting for value investors; and the Oscars present a solution for long acceptance speeches&amp;nbsp;</title>
+      <link>http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/I5Zx4NMhWps/pm_20160226_1500_64.mp3</link>
+      <description>Marco Rubio called out Donald Trump for his &quot;fake&quot; university; why Warren Buffet's earnings letter is so exciting for value investors; and the Oscars present a solution for long acceptance speeches&amp;nbsp;</description>
+      <enclosure url="http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/I5Zx4NMhWps/pm_20160226_1500_64.mp3"
+        length="13922905"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 26 Feb 2016 22:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/I5Zx4NMhWps/pm_20160226_1500_64.mp3</guid>
+      <dc:date>2016-02-26T22:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>02-26-16 - Marketplace - Trump &amp;quot;University&amp;quot;</itunes:subtitle>
+      <itunes:summary>Marco Rubio called out Donald Trump for his &quot;fake&quot; university; why Warren Buffet's earnings letter is so exciting for value investors; and the Oscars present a solution for long acceptance speeches&amp;nbsp;</itunes:summary>
+    </item>
+    <item>
+      <title>Justice Scalia of the Supreme Court dies and CEO Tim Cook and Apple go toe-to-toe with the U.S. Government over privacy.</title>
+      <link>http://traffic.libsyn.com/dancarlin/cswdcd02.mp3</link>
+      <description>Justice Scalia of the Supreme Court dies and CEO Tim Cook and Apple go toe-to-toe with the U.S. Government over privacy.</description>
+      <enclosure url="http://traffic.libsyn.com/dancarlin/cswdcd02.mp3"
+        length="41108678"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 26 Feb 2016 21:04:26 -0000</pubDate>
+      <guid isPermaLink="true">http://traffic.libsyn.com/dancarlin/cswdcd02.mp3</guid>
+      <dc:date>2016-02-26T21:04:26Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>Scalia, SCOTUS, Tim Cook, Apple, privacy, iPhone, encryption, 4th Amendment, secrecy, Obama, Republican, Supreme Court, history, freedom, corruption, Democratic, libertarian, Green</itunes:keywords>
+      <itunes:subtitle>Show 302 - Of Courts, Cooks and Apples</itunes:subtitle>
+      <itunes:summary>Justice Scalia of the Supreme Court dies and CEO Tim Cook and Apple go toe-to-toe with the U.S. Government over privacy.</itunes:summary>
+    </item>
+    <item>
+      <title>Both movies are nominated for Best Picture. 'Spotlight' chronicles the team of journalists who uncovered the clergy sex abuse scandal in Boston. 'The Big Short' is about the people who foresaw and warned of the collapse of the global economy. Directors Tom McCarthy (with former Boston Globe reporter Walter Robinson) and Adam McKay talk about their respective films.</title>
+      <link>http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/468300809/npr_468300809.mp3?orgId=1&amp;d=2912&amp;p=381444908&amp;story=468300809&amp;t=podcast&amp;e=468300809&amp;ft=pod&amp;f=381444908</link>
+      <description>Both movies are nominated for Best Picture. 'Spotlight' chronicles the team of journalists who uncovered the clergy sex abuse scandal in Boston. 'The Big Short' is about the people who foresaw and warned of the collapse of the global economy. Directors Tom McCarthy (with former Boston Globe reporter Walter Robinson) and Adam McKay talk about their respective films.</description>
+      <enclosure url="http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/468300809/npr_468300809.mp3?orgId=1&amp;d=2912&amp;p=381444908&amp;story=468300809&amp;t=podcast&amp;e=468300809&amp;ft=pod&amp;f=381444908"
+        length="23288224"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 26 Feb 2016 21:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/468300809/npr_468300809.mp3?orgId=1&amp;d=2912&amp;p=381444908&amp;story=468300809&amp;t=podcast&amp;e=468300809&amp;ft=pod&amp;f=381444908</guid>
+      <dc:date>2016-02-26T21:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Creators Of 'Spotlight' &amp; 'The Big Short'</itunes:subtitle>
+      <itunes:summary>Both movies are nominated for Best Picture. 'Spotlight' chronicles the team of journalists who uncovered the clergy sex abuse scandal in Boston. 'The Big Short' is about the people who foresaw and warned of the collapse of the global economy. Directors Tom McCarthy (with former Boston Globe reporter Walter Robinson) and Adam McKay talk about their respective films.</itunes:summary>
+    </item>
+    <item>
+      <title>Jaroslaw Kaczynski,  who heads Poland's Law and Justice Party, is leading a conservative counter-revolution that some see as anti-democractic.  Henry Foy, the FT's Warsaw correspondent, was granted a rare interview. He talks to Gideon Rachman and Neil Buckley about the encounter.   </title>
+      <link>http://rss.acast.com/ft-news/polandsunrepentantideologue/media.mp3</link>
+      <description>Jaroslaw Kaczynski,  who heads Poland's Law and Justice Party, is leading a conservative counter-revolution that some see as anti-democractic.  Henry Foy, the FT's Warsaw correspondent, was granted a rare interview. He talks to Gideon Rachman and Neil Buckley about the encounter.   </description>
+      <enclosure url="http://rss.acast.com/ft-news/polandsunrepentantideologue/media.mp3"
+        length="13379911"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 26 Feb 2016 06:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://rss.acast.com/ft-news/polandsunrepentantideologue/media.mp3</guid>
+      <dc:date>2016-02-26T06:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Poland's unrepentant ideologue</itunes:subtitle>
+      <itunes:summary>Jaroslaw Kaczynski,  who heads Poland's Law and Justice Party, is leading a conservative counter-revolution that some see as anti-democractic.  Henry Foy, the FT's Warsaw correspondent, was granted a rare interview. He talks to Gideon Rachman and Neil Buckley about the encounter.   </itunes:summary>
+    </item>
+    <item>
+      <title>Amid the government clashes with Apple, the cyber security job market is hot; a conversation with UC Berkeley's chancellor and the latest in our &quot;Transaction&quot; series.</title>
+      <link>http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/wltMJshQddg/pm_20160225_pod_64.mp3</link>
+      <description>Amid the government clashes with Apple, the cyber security job market is hot; a conversation with UC Berkeley's chancellor and the latest in our &quot;Transaction&quot; series.</description>
+      <enclosure url="http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/wltMJshQddg/pm_20160225_pod_64.mp3"
+        length="12473024"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 25 Feb 2016 22:40:06 -0000</pubDate>
+      <guid isPermaLink="true">http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/wltMJshQddg/pm_20160225_pod_64.mp3</guid>
+      <dc:date>2016-02-25T22:40:06Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>02-25-16 Marketplace - Now hiring: encryptors </itunes:subtitle>
+      <itunes:summary>Amid the government clashes with Apple, the cyber security job market is hot; a conversation with UC Berkeley's chancellor and the latest in our &quot;Transaction&quot; series.</itunes:summary>
+    </item>
+    <item>
+      <title>Once a grand seaside destination, Atlantic City now faces the prospect of a takeover by the state of New Jersey. Historian Bryant Simon and reporter Amy Rosenberg discuss the city's rise and fall.</title>
+      <link>http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/468156533/npr_468156533.mp3?orgId=1&amp;d=2890&amp;p=381444908&amp;story=468156533&amp;t=podcast&amp;e=468156533&amp;ft=pod&amp;f=381444908</link>
+      <description>Once a grand seaside destination, Atlantic City now faces the prospect of a takeover by the state of New Jersey. Historian Bryant Simon and reporter Amy Rosenberg discuss the city's rise and fall.</description>
+      <enclosure url="http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/468156533/npr_468156533.mp3?orgId=1&amp;d=2890&amp;p=381444908&amp;story=468156533&amp;t=podcast&amp;e=468156533&amp;ft=pod&amp;f=381444908"
+        length="23115376"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 25 Feb 2016 21:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/468156533/npr_468156533.mp3?orgId=1&amp;d=2890&amp;p=381444908&amp;story=468156533&amp;t=podcast&amp;e=468156533&amp;ft=pod&amp;f=381444908</guid>
+      <dc:date>2016-02-25T21:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Going For Broke: Atlantic City Falls On Hard Times</itunes:subtitle>
+      <itunes:summary>Once a grand seaside destination, Atlantic City now faces the prospect of a takeover by the state of New Jersey. Historian Bryant Simon and reporter Amy Rosenberg discuss the city's rise and fall.</itunes:summary>
+    </item>
+    <item>
+      <title>Broadway star Sutton Foster talks about losing &lt;em&gt;Star Search&lt;/em&gt;, winning two Tonys, and playing a 40-year-old pretending to be a 26-year-old on TV. Plus, variations on the titular song from &lt;em&gt;Anything Goes&lt;/em&gt;!</title>
+      <link>http://play.podtrac.com/npr-510299/npr.mc.tritondigital.com/AMA_PODCAST/media/anon.npr-mp3/npr/ama/2016/02/20160225_ama_fullshow.mp3?orgId=1&amp;d=3060&amp;p=510299&amp;story=467956030&amp;t=podcast&amp;e=467956030&amp;ft=pod&amp;f=510299</link>
+      <description>Broadway star Sutton Foster talks about losing &lt;em&gt;Star Search&lt;/em&gt;, winning two Tonys, and playing a 40-year-old pretending to be a 26-year-old on TV. Plus, variations on the titular song from &lt;em&gt;Anything Goes&lt;/em&gt;!</description>
+      <enclosure url="http://play.podtrac.com/npr-510299/npr.mc.tritondigital.com/AMA_PODCAST/media/anon.npr-mp3/npr/ama/2016/02/20160225_ama_fullshow.mp3?orgId=1&amp;d=3060&amp;p=510299&amp;story=467956030&amp;t=podcast&amp;e=467956030&amp;ft=pod&amp;f=510299"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 25 Feb 2016 15:00:10 -0000</pubDate>
+      <guid isPermaLink="true">http://play.podtrac.com/npr-510299/npr.mc.tritondigital.com/AMA_PODCAST/media/anon.npr-mp3/npr/ama/2016/02/20160225_ama_fullshow.mp3?orgId=1&amp;d=3060&amp;p=510299&amp;story=467956030&amp;t=podcast&amp;e=467956030&amp;ft=pod&amp;f=510299</guid>
+      <dc:date>2016-02-25T15:00:10Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Sutton Foster: Really, Anything Goes (R)</itunes:subtitle>
+      <itunes:summary>Broadway star Sutton Foster talks about losing &lt;em&gt;Star Search&lt;/em&gt;, winning two Tonys, and playing a 40-year-old pretending to be a 26-year-old on TV. Plus, variations on the titular song from &lt;em&gt;Anything Goes&lt;/em&gt;!</itunes:summary>
+    </item>
+    <item>
+      <title>Iranians go to the polls on Friday in the first major test of public opinion since last summer’s nuclear accord. President Hassan Rouhani is seeking a mandate to press on with long-promised  reforms. Najmeh Bozorgmehr, FT Tehran correspondent, talks to voters about their intentions.</title>
+      <link>http://rss.acast.com/ft-news/iransrohaniseeksreformmandate/media.mp3</link>
+      <description>Iranians go to the polls on Friday in the first major test of public opinion since last summer’s nuclear accord. President Hassan Rouhani is seeking a mandate to press on with long-promised  reforms. Najmeh Bozorgmehr, FT Tehran correspondent, talks to voters about their intentions.</description>
+      <enclosure url="http://rss.acast.com/ft-news/iransrohaniseeksreformmandate/media.mp3"
+        length="6789121"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 25 Feb 2016 13:29:30 -0000</pubDate>
+      <guid isPermaLink="true">http://rss.acast.com/ft-news/iransrohaniseeksreformmandate/media.mp3</guid>
+      <dc:date>2016-02-25T13:29:30Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Iran's Rouhani seeks reform mandate</itunes:subtitle>
+      <itunes:summary>Iranians go to the polls on Friday in the first major test of public opinion since last summer’s nuclear accord. President Hassan Rouhani is seeking a mandate to press on with long-promised  reforms. Najmeh Bozorgmehr, FT Tehran correspondent, talks to voters about their intentions.</itunes:summary>
+    </item>
+    <item>
+      <title>A special edition of &quot;good/bad use of polling&quot; to discuss some recent data showing Donald Trump supporters are intolerant and racist.</title>
+      <link>http://c.espnradio.com/s:J1X3L/audio/2688132/fivethirtyeightelections_2016-02-25-125732.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CMidroll3%2CMidroll4%2CMidroll5%2CMidroll6%2CPostroll%2CPostroll2%7Cstation_id%3D4278</link>
+      <description>A special edition of &quot;good/bad use of polling&quot; to discuss some recent data showing Donald Trump supporters are intolerant and racist.</description>
+      <enclosure url="http://c.espnradio.com/s:J1X3L/audio/2688132/fivethirtyeightelections_2016-02-25-125732.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CMidroll3%2CMidroll4%2CMidroll5%2CMidroll6%2CPostroll%2CPostroll2%7Cstation_id%3D4278"
+        length="0"
+        type="audio/mp3"/>
+      <pubDate>Thu, 25 Feb 2016 11:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://c.espnradio.com/s:J1X3L/audio/2688132/fivethirtyeightelections_2016-02-25-125732.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CMidroll3%2CMidroll4%2CMidroll5%2CMidroll6%2CPostroll%2CPostroll2%7Cstation_id%3D4278</guid>
+      <dc:date>2016-02-25T11:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>null</itunes:keywords>
+      <itunes:subtitle>That Trump Supporter Polling: 2/25/16</itunes:subtitle>
+      <itunes:summary>A special edition of &quot;good/bad use of polling&quot; to discuss some recent data showing Donald Trump supporters are intolerant and racist.</itunes:summary>
+    </item>
+    <item>
+      <title>The UFC's Tim T.K.O. Kennedy talks about everything from how to kill an ISIS soldier in 3 seconds to the two weapons he'd choose during the zombie apocalypse. Tim is a Bronze Star recipient, an American hero, and certifiably insane in the best way possible. He'll fight for the UFC Championship in just a couple months!</title>
+      <link>http://serve.castfire.com/audio/2687529/2687529_2016-02-24-183829.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CPostroll%2CPostroll2%7Cstation_id%3D2692</link>
+      <description>The UFC's Tim T.K.O. Kennedy talks about everything from how to kill an ISIS soldier in 3 seconds to the two weapons he'd choose during the zombie apocalypse. Tim is a Bronze Star recipient, an American hero, and certifiably insane in the best way possible. He'll fight for the UFC Championship in just a couple months!</description>
+      <enclosure url="http://serve.castfire.com/audio/2687529/2687529_2016-02-24-183829.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CPostroll%2CPostroll2%7Cstation_id%3D2692"
+        length="36189329"
+        type="audio/x-mpeg"/>
+      <pubDate>Thu, 25 Feb 2016 08:01:00 -0000</pubDate>
+      <guid isPermaLink="true">http://serve.castfire.com/audio/2687529/2687529_2016-02-24-183829.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CPostroll%2CPostroll2%7Cstation_id%3D2692</guid>
+      <dc:date>2016-02-25T08:01:00Z</dc:date>
+      <itunes:author>info@podcastonesales.com (podcastonesales.com)</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>Podcast Advertising | PodcastOne Sales Chive Podcast Tim T.K.O. Kennedy on theChive Podcast - Ep54 Tim T.K.O. Kennedy on theChive Podcast - Ep54</itunes:keywords>
+      <itunes:subtitle>Tim T.K.O. Kennedy on theChive Podcast - Ep54</itunes:subtitle>
+      <itunes:summary>The UFC's Tim T.K.O. Kennedy talks about everything from how to kill an ISIS soldier in 3 seconds to the two weapons he'd choose during the zombie apocalypse. Tim is a Bronze Star recipient, an American hero, and certifiably insane in the best way possible. He'll fight for the UFC Championship in just a couple months!</itunes:summary>
+    </item>
+    <item>
+      <title>&lt;p&gt;Now and again, Freakonomics Radio puts hat in hand and asks listeners to donate to the public-radio station that produces the show. Why on earth should anyone pay good money for something that can be had for free? Here are a few reasons.&lt;/p&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/freakonomicsradio/~4/rctTYRInSOA&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</title>
+      <link>http://feedproxy.google.com/~r/freakonomicsradio/~5/-qlA3XhHEZI/freakonomics_podcast022416.mp3</link>
+      <description>&lt;p&gt;Now and again, Freakonomics Radio puts hat in hand and asks listeners to donate to the public-radio station that produces the show. Why on earth should anyone pay good money for something that can be had for free? Here are a few reasons.&lt;/p&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/freakonomicsradio/~4/rctTYRInSOA&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</description>
+      <enclosure url="http://feedproxy.google.com/~r/freakonomicsradio/~5/-qlA3XhHEZI/freakonomics_podcast022416.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 25 Feb 2016 04:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://feedproxy.google.com/~r/freakonomicsradio/~5/-qlA3XhHEZI/freakonomics_podcast022416.mp3</guid>
+      <dc:date>2016-02-25T04:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>freakonomics, wnyc, american, public, media, Stephen, Dubner, Steven, Levitt, public, radio, freakonomics, radio, new, york, public, radio, apm, wnyc, radio, studios</itunes:keywords>
+      <itunes:subtitle>Ask Not What Your Podcast Can Do for You
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Now and again, Freakonomics Radio puts hat in hand and asks listeners to donate to the public-radio station that produces the show. Why on earth should anyone pay good money for something that can be had for free? Here are a few reasons.&lt;/p&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/freakonomicsradio/~4/rctTYRInSOA&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>Joe R. Lansdale grew up poor in east Texas and worked as a janitor and in a potato field before finding success as a writer. 'Honky Tonk Samurai' is the latest book in his 'Hap and Leonard' mystery series. Also, the French government is eliminating the circumflex (the little hat-shaped accent that sits on certain vowels.) Linguist Geoff Nunberg wonders why we don't have similar spelling controversies in English. Finally, jazz critic Kevin Whitehead reviews 'All My Yesterdays' by Thad Jones and Mel Lewis.</title>
+      <link>http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/468004128/npr_468004128.mp3?orgId=1&amp;d=2888&amp;p=381444908&amp;story=468004128&amp;t=podcast&amp;e=468004128&amp;ft=pod&amp;f=381444908</link>
+      <description>Joe R. Lansdale grew up poor in east Texas and worked as a janitor and in a potato field before finding success as a writer. 'Honky Tonk Samurai' is the latest book in his 'Hap and Leonard' mystery series. Also, the French government is eliminating the circumflex (the little hat-shaped accent that sits on certain vowels.) Linguist Geoff Nunberg wonders why we don't have similar spelling controversies in English. Finally, jazz critic Kevin Whitehead reviews 'All My Yesterdays' by Thad Jones and Mel Lewis.</description>
+      <enclosure url="http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/468004128/npr_468004128.mp3?orgId=1&amp;d=2888&amp;p=381444908&amp;story=468004128&amp;t=podcast&amp;e=468004128&amp;ft=pod&amp;f=381444908"
+        length="23098112"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 24 Feb 2016 21:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/468004128/npr_468004128.mp3?orgId=1&amp;d=2888&amp;p=381444908&amp;story=468004128&amp;t=podcast&amp;e=468004128&amp;ft=pod&amp;f=381444908</guid>
+      <dc:date>2016-02-24T21:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Author Joe R. Lansdale On Writing &quot;To Get All The Junk Out&quot;</itunes:subtitle>
+      <itunes:summary>Joe R. Lansdale grew up poor in east Texas and worked as a janitor and in a potato field before finding success as a writer. 'Honky Tonk Samurai' is the latest book in his 'Hap and Leonard' mystery series. Also, the French government is eliminating the circumflex (the little hat-shaped accent that sits on certain vowels.) Linguist Geoff Nunberg wonders why we don't have similar spelling controversies in English. Finally, jazz critic Kevin Whitehead reviews 'All My Yesterdays' by Thad Jones and Mel Lewis.</itunes:summary>
+    </item>
+    <item>
+      <title>Water cut-offs are impacting mobile home renters in Ohio; how the instant delivery business is growing; and an interview with the man behind CBS' &quot;The Big Bang Theory&quot;</title>
+      <link>http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/a-Lvqmv7JrA/pm_20160224_pod_64.mp3</link>
+      <description>Water cut-offs are impacting mobile home renters in Ohio; how the instant delivery business is growing; and an interview with the man behind CBS' &quot;The Big Bang Theory&quot;</description>
+      <enclosure url="http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/a-Lvqmv7JrA/pm_20160224_pod_64.mp3"
+        length="12609486"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 24 Feb 2016 20:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/a-Lvqmv7JrA/pm_20160224_pod_64.mp3</guid>
+      <dc:date>2016-02-24T20:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>02-24-16 - Marketplace - The water problem in mobile homes</itunes:subtitle>
+      <itunes:summary>Water cut-offs are impacting mobile home renters in Ohio; how the instant delivery business is growing; and an interview with the man behind CBS' &quot;The Big Bang Theory&quot;</itunes:summary>
+    </item>
+    <item>
+      <title>Would a vote to leave the European Union be good for Britain's economy? John Redwood, Conservative politician, and Martin Wolf, chief economics commentator at the Financial Times, discuss the question in the third and final of a series of FT debates on Brexit. 
+
+To read more on Britain's referendum on Europe, go to ft.com/eu-referendum</title>
+      <link>http://rss.acast.com/ft-news/wouldbritainbebetteroffoutsidetheeu-/media.mp3</link>
+      <description>Would a vote to leave the European Union be good for Britain's economy? John Redwood, Conservative politician, and Martin Wolf, chief economics commentator at the Financial Times, discuss the question in the third and final of a series of FT debates on Brexit. 
+
+To read more on Britain's referendum on Europe, go to ft.com/eu-referendum</description>
+      <enclosure url="http://rss.acast.com/ft-news/wouldbritainbebetteroffoutsidetheeu-/media.mp3"
+        length="10228266"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 24 Feb 2016 06:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://rss.acast.com/ft-news/wouldbritainbebetteroffoutsidetheeu-/media.mp3</guid>
+      <dc:date>2016-02-24T06:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Would Britain be better off outside the EU?</itunes:subtitle>
+      <itunes:summary>Would a vote to leave the European Union be good for Britain's economy? John Redwood, Conservative politician, and Martin Wolf, chief economics commentator at the Financial Times, discuss the question in the third and final of a series of FT debates on Brexit. 
+
+To read more on Britain's referendum on Europe, go to ft.com/eu-referendum</itunes:summary>
+    </item>
+    <item>
+      <title>The middle of the 20th Century was a golden age for road travel in the United States. Cars had become cheap and spacious enough to carry families comfortably for hundreds of miles. The Interstate Highway System had started to connect the country’s smaller roads in a vast nationwide network. That freedom and mobility, however, was not equally available to everyone.
+
+Some African-American tourists would drive all night instead of trying to find lodging in an unfamiliar and possibly dangerous town. They would pack picnics so they could avoid stopping at restaurants that might refuse to serve them.
+
+But in 1936, a man named Victor Hugo Green started a travel guide to make life on the road easier and safer for black motorists.
+
+The Green Book</title>
+      <link>http://feeds.99percentinvisible.org/~r/99percentinvisible/~5/A_9VuQ6ojGQ/201-The-Green-Book.mp3</link>
+      <description>The middle of the 20th Century was a golden age for road travel in the United States. Cars had become cheap and spacious enough to carry families comfortably for hundreds of miles. The Interstate Highway System had started to connect the country’s smaller roads in a vast nationwide network. That freedom and mobility, however, was not equally available to everyone.
+
+Some African-American tourists would drive all night instead of trying to find lodging in an unfamiliar and possibly dangerous town. They would pack picnics so they could avoid stopping at restaurants that might refuse to serve them.
+
+But in 1936, a man named Victor Hugo Green started a travel guide to make life on the road easier and safer for black motorists.
+
+The Green Book</description>
+      <enclosure url="http://feeds.99percentinvisible.org/~r/99percentinvisible/~5/A_9VuQ6ojGQ/201-The-Green-Book.mp3"
+        length="21610750"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 24 Feb 2016 02:18:22 -0000</pubDate>
+      <guid isPermaLink="true">http://feeds.99percentinvisible.org/~r/99percentinvisible/~5/A_9VuQ6ojGQ/201-The-Green-Book.mp3</guid>
+      <dc:date>2016-02-24T02:18:22Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>201- The Green Book</itunes:subtitle>
+      <itunes:summary>The middle of the 20th Century was a golden age for road travel in the United States. Cars had become cheap and spacious enough to carry families comfortably for hundreds of miles. The Interstate Highway System had started to connect the country’s smaller roads in a vast nationwide network. That freedom and mobility, however, was not equally available to everyone.
+
+Some African-American tourists would drive all night instead of trying to find lodging in an unfamiliar and possibly dangerous town. They would pack picnics so they could avoid stopping at restaurants that might refuse to serve them.
+
+But in 1936, a man named Victor Hugo Green started a travel guide to make life on the road easier and safer for black motorists.
+
+The Green Book</itunes:summary>
+    </item>
+    <item>
+      <title>Known for her recent work in 'Downton Abbey' and the 'Harry Potter' films, the Oscar-winning actress now stars in 'The Lady in the Van,' a film about an elderly woman who lived in a van for 15 years. Also, Ken Tucker reviews Bonnie Raitt's new album 'Dig in Deep.' </title>
+      <link>http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/467850910/npr_467850910.mp3?orgId=1&amp;d=2848&amp;p=381444908&amp;story=467850910&amp;t=podcast&amp;e=467850910&amp;ft=pod&amp;f=381444908</link>
+      <description>Known for her recent work in 'Downton Abbey' and the 'Harry Potter' films, the Oscar-winning actress now stars in 'The Lady in the Van,' a film about an elderly woman who lived in a van for 15 years. Also, Ken Tucker reviews Bonnie Raitt's new album 'Dig in Deep.' </description>
+      <enclosure url="http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/467850910/npr_467850910.mp3?orgId=1&amp;d=2848&amp;p=381444908&amp;story=467850910&amp;t=podcast&amp;e=467850910&amp;ft=pod&amp;f=381444908"
+        length="22783200"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 23 Feb 2016 21:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/467850910/npr_467850910.mp3?orgId=1&amp;d=2848&amp;p=381444908&amp;story=467850910&amp;t=podcast&amp;e=467850910&amp;ft=pod&amp;f=381444908</guid>
+      <dc:date>2016-02-23T21:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Maggie Smith</itunes:subtitle>
+      <itunes:summary>Known for her recent work in 'Downton Abbey' and the 'Harry Potter' films, the Oscar-winning actress now stars in 'The Lady in the Van,' a film about an elderly woman who lived in a van for 15 years. Also, Ken Tucker reviews Bonnie Raitt's new album 'Dig in Deep.' </itunes:summary>
+    </item>
+    <item>
+      <title>On this week's &lt;em&gt;All Songs Considered&lt;/em&gt;, hosts Bob Boilen and Robin Hilton share songs from a trio of bands on the verge of releasing breakthrough albums. Bob starts the show strong with a jaw-dropping new song from Car Seat Headrest called &quot;Vincent.&quot; Robin follows that up with a song by Big Thief and later shares a new song from the best album yet by The Coathangers.We also get a new track by sibling duo Follin, featuring the leaders of Cults and Guards; NPR Music's Daoud Tyler-Ameen drops by to share the lovely pop-punk of Tancred and Robin takes us out on the densely layered electronic music of Tim Hecker.</title>
+      <link>http://play.podtrac.com/npr-510019/npr.mc.tritondigital.com/ALLSONGS_PODCAST/media/anon.npr-mp3/npr/asc/2016/02/20160223_asc_wholeshow.mp3?orgId=1&amp;d=2355&amp;p=510019&amp;story=467844375&amp;t=podcast&amp;e=467844375&amp;ft=pod&amp;f=510019</link>
+      <description>On this week's &lt;em&gt;All Songs Considered&lt;/em&gt;, hosts Bob Boilen and Robin Hilton share songs from a trio of bands on the verge of releasing breakthrough albums. Bob starts the show strong with a jaw-dropping new song from Car Seat Headrest called &quot;Vincent.&quot; Robin follows that up with a song by Big Thief and later shares a new song from the best album yet by The Coathangers.We also get a new track by sibling duo Follin, featuring the leaders of Cults and Guards; NPR Music's Daoud Tyler-Ameen drops by to share the lovely pop-punk of Tancred and Robin takes us out on the densely layered electronic music of Tim Hecker.</description>
+      <enclosure url="http://play.podtrac.com/npr-510019/npr.mc.tritondigital.com/ALLSONGS_PODCAST/media/anon.npr-mp3/npr/asc/2016/02/20160223_asc_wholeshow.mp3?orgId=1&amp;d=2355&amp;p=510019&amp;story=467844375&amp;t=podcast&amp;e=467844375&amp;ft=pod&amp;f=510019"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 23 Feb 2016 20:40:00 -0000</pubDate>
+      <guid isPermaLink="true">http://play.podtrac.com/npr-510019/npr.mc.tritondigital.com/ALLSONGS_PODCAST/media/anon.npr-mp3/npr/asc/2016/02/20160223_asc_wholeshow.mp3?orgId=1&amp;d=2355&amp;p=510019&amp;story=467844375&amp;t=podcast&amp;e=467844375&amp;ft=pod&amp;f=510019</guid>
+      <dc:date>2016-02-23T20:40:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>New Mix: Breakthroughs By Car Seat Headrest, The Coathangers, Big Thief, More </itunes:subtitle>
+      <itunes:summary>On this week's &lt;em&gt;All Songs Considered&lt;/em&gt;, hosts Bob Boilen and Robin Hilton share songs from a trio of bands on the verge of releasing breakthrough albums. Bob starts the show strong with a jaw-dropping new song from Car Seat Headrest called &quot;Vincent.&quot; Robin follows that up with a song by Big Thief and later shares a new song from the best album yet by The Coathangers.We also get a new track by sibling duo Follin, featuring the leaders of Cults and Guards; NPR Music's Daoud Tyler-Ameen drops by to share the lovely pop-punk of Tancred and Robin takes us out on the densely layered electronic music of Tim Hecker.</itunes:summary>
+    </item>
+    <item>
+      <title>A look at one largest pharmacies in the country; Bank of America's new mortgage plan for low-income buyers; and a defeat for the solar industry in Nevada.
+
+&amp;nbsp;</title>
+      <link>http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/eCCvdE5nThc/pm_20160223_pod_64.mp3</link>
+      <description>A look at one largest pharmacies in the country; Bank of America's new mortgage plan for low-income buyers; and a defeat for the solar industry in Nevada.
+
+&amp;nbsp;</description>
+      <enclosure url="http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/eCCvdE5nThc/pm_20160223_pod_64.mp3"
+        length="12627458"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 23 Feb 2016 20:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/eCCvdE5nThc/pm_20160223_pod_64.mp3</guid>
+      <dc:date>2016-02-23T20:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>02-23-16 - Marketplace - How CVS keeps drug prices low</itunes:subtitle>
+      <itunes:summary>A look at one largest pharmacies in the country; Bank of America's new mortgage plan for low-income buyers; and a defeat for the solar industry in Nevada.
+
+&amp;nbsp;</itunes:summary>
+    </item>
+    <item>
+      <title>Blacker History Month wraps up with more little known heroes, we talk all things Kanye with Jezebel's Julianne Escobedo Shepherd, and interview Vann R. Newkirk II (The Atlantic, Seven Scribes) about Afrofuturism and #DuragHistoryWeek.</title>
+      <link>http://rss.acast.com/anotherround/episode43-thegumboofafrofuturism-withvannr.newkirkii-/media.mp3</link>
+      <description>Blacker History Month wraps up with more little known heroes, we talk all things Kanye with Jezebel's Julianne Escobedo Shepherd, and interview Vann R. Newkirk II (The Atlantic, Seven Scribes) about Afrofuturism and #DuragHistoryWeek.</description>
+      <enclosure url="http://rss.acast.com/anotherround/episode43-thegumboofafrofuturism-withvannr.newkirkii-/media.mp3"
+        length="63723149"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 23 Feb 2016 08:04:36 -0000</pubDate>
+      <guid isPermaLink="true">http://rss.acast.com/anotherround/episode43-thegumboofafrofuturism-withvannr.newkirkii-/media.mp3</guid>
+      <dc:date>2016-02-23T08:04:36Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Episode 43: A Gumbo of Afrofuturism (with Vann R. Newkirk II)</itunes:subtitle>
+      <itunes:summary>Blacker History Month wraps up with more little known heroes, we talk all things Kanye with Jezebel's Julianne Escobedo Shepherd, and interview Vann R. Newkirk II (The Atlantic, Seven Scribes) about Afrofuturism and #DuragHistoryWeek.</itunes:summary>
+    </item>
+    <item>
+      <title>&lt;p&gt;In this week’s episode of “Unqualified,” the gang welcomes a long-time FRIEND: Lisa Kudrow!  Listen in as Anna and Lisa reminisce about Anna’s guest-starring role on the final season of FRIENDS.  Then, in the most off-the-wall “Rapid Fire” series yet, Anna and Lisa deliberate about whether an Emmy or a SAG Award trophy is the deadlier weapon.  Anna, Sim, and Lisa also talk to a woman who wants to know whether she should remain friends with a man for whom she has feelings, or whether it is time to move on.  And our last caller made Anna giddy with excitement—tune in to find out why! &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Credits:&lt;br /&gt;&lt;br /&gt;Co-host and Produced by: Sim Sarna @simsarna&lt;br /&gt;Technical Producer: Mike Flinn @realmikeflinn&lt;br /&gt;Theme song by: Mondo Cozmo @mondocozmo&lt;br /&gt;Website by: Will Plyer&lt;br /&gt;Twitter: @unqualified&lt;br /&gt;IG: @unqualified &lt;br /&gt;Follow Anna at @annakfaris&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Facebook.com/annafarisisunqualified&lt;br /&gt;&lt;br /&gt;Submit your questions: www.annafarisisunqualified.com&lt;/p&gt;</title>
+      <link>http://traffic.libsyn.com/annafarisisunqualified/ep_15__Lisa_Kudrow.mp3</link>
+      <description>&lt;p&gt;In this week’s episode of “Unqualified,” the gang welcomes a long-time FRIEND: Lisa Kudrow!  Listen in as Anna and Lisa reminisce about Anna’s guest-starring role on the final season of FRIENDS.  Then, in the most off-the-wall “Rapid Fire” series yet, Anna and Lisa deliberate about whether an Emmy or a SAG Award trophy is the deadlier weapon.  Anna, Sim, and Lisa also talk to a woman who wants to know whether she should remain friends with a man for whom she has feelings, or whether it is time to move on.  And our last caller made Anna giddy with excitement—tune in to find out why! &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Credits:&lt;br /&gt;&lt;br /&gt;Co-host and Produced by: Sim Sarna @simsarna&lt;br /&gt;Technical Producer: Mike Flinn @realmikeflinn&lt;br /&gt;Theme song by: Mondo Cozmo @mondocozmo&lt;br /&gt;Website by: Will Plyer&lt;br /&gt;Twitter: @unqualified&lt;br /&gt;IG: @unqualified &lt;br /&gt;Follow Anna at @annakfaris&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Facebook.com/annafarisisunqualified&lt;br /&gt;&lt;br /&gt;Submit your questions: www.annafarisisunqualified.com&lt;/p&gt;</description>
+      <enclosure url="http://traffic.libsyn.com/annafarisisunqualified/ep_15__Lisa_Kudrow.mp3"
+        length="29026241"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 23 Feb 2016 07:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://traffic.libsyn.com/annafarisisunqualified/ep_15__Lisa_Kudrow.mp3</guid>
+      <dc:date>2016-02-23T07:30:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>ep 15: Lisa Kudrow</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;In this week’s episode of “Unqualified,” the gang welcomes a long-time FRIEND: Lisa Kudrow!  Listen in as Anna and Lisa reminisce about Anna’s guest-starring role on the final season of FRIENDS.  Then, in the most off-the-wall “Rapid Fire” series yet, Anna and Lisa deliberate about whether an Emmy or a SAG Award trophy is the deadlier weapon.  Anna, Sim, and Lisa also talk to a woman who wants to know whether she should remain friends with a man for whom she has feelings, or whether it is time to move on.  And our last caller made Anna giddy with excitement—tune in to find out why! &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Credits:&lt;br /&gt;&lt;br /&gt;Co-host and Produced by: Sim Sarna @simsarna&lt;br /&gt;Technical Producer: Mike Flinn @realmikeflinn&lt;br /&gt;Theme song by: Mondo Cozmo @mondocozmo&lt;br /&gt;Website by: Will Plyer&lt;br /&gt;Twitter: @unqualified&lt;br /&gt;IG: @unqualified &lt;br /&gt;Follow Anna at @annakfaris&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Facebook.com/annafarisisunqualified&lt;br /&gt;&lt;br /&gt;Submit your questions: www.annafarisisunqualified.com&lt;/p&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>Would a British vote to leave the European Union be a disaster for the City of London? Howard Shaw of investment bank Shaw Capital and Gina Miller of investment managers SCM Private discuss the question in the second of a series of FT debates on Brexit. 
+
+To read more on Britain's referendum on Europe, go to ft.com/eu-referendum
+</title>
+      <link>http://rss.acast.com/ft-news/wouldbrexitbeadisasterforthecityoflondon-/media.mp3</link>
+      <description>Would a British vote to leave the European Union be a disaster for the City of London? Howard Shaw of investment bank Shaw Capital and Gina Miller of investment managers SCM Private discuss the question in the second of a series of FT debates on Brexit. 
+
+To read more on Britain's referendum on Europe, go to ft.com/eu-referendum
+</description>
+      <enclosure url="http://rss.acast.com/ft-news/wouldbrexitbeadisasterforthecityoflondon-/media.mp3"
+        length="10981548"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 23 Feb 2016 06:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://rss.acast.com/ft-news/wouldbrexitbeadisasterforthecityoflondon-/media.mp3</guid>
+      <dc:date>2016-02-23T06:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Would Brexit be a disaster for the City of London?</itunes:subtitle>
+      <itunes:summary>Would a British vote to leave the European Union be a disaster for the City of London? Howard Shaw of investment bank Shaw Capital and Gina Miller of investment managers SCM Private discuss the question in the second of a series of FT debates on Brexit. 
+
+To read more on Britain's referendum on Europe, go to ft.com/eu-referendum
+</itunes:summary>
+    </item>
+    <item>
+      <title>Author Sonia Shah says that urbanization and air travel put the global population at an increased risk for disease. &quot;Zika is a great example of how new pathogens are emerging today,&quot; she says. Her new book is 'Pandemic.' Also, book critic Maureen Corrigan reviews 'A Doubter's Almanac.'</title>
+      <link>http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/467707818/npr_467707818.mp3?orgId=1&amp;d=2905&amp;p=381444908&amp;story=467707818&amp;t=podcast&amp;e=467707818&amp;ft=pod&amp;f=381444908</link>
+      <description>Author Sonia Shah says that urbanization and air travel put the global population at an increased risk for disease. &quot;Zika is a great example of how new pathogens are emerging today,&quot; she says. Her new book is 'Pandemic.' Also, book critic Maureen Corrigan reviews 'A Doubter's Almanac.'</description>
+      <enclosure url="http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/467707818/npr_467707818.mp3?orgId=1&amp;d=2905&amp;p=381444908&amp;story=467707818&amp;t=podcast&amp;e=467707818&amp;ft=pod&amp;f=381444908"
+        length="23232688"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 22 Feb 2016 21:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/467707818/npr_467707818.mp3?orgId=1&amp;d=2905&amp;p=381444908&amp;story=467707818&amp;t=podcast&amp;e=467707818&amp;ft=pod&amp;f=381444908</guid>
+      <dc:date>2016-02-22T21:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Is A Disease That Will Kill Tens Of Millions Coming?</itunes:subtitle>
+      <itunes:summary>Author Sonia Shah says that urbanization and air travel put the global population at an increased risk for disease. &quot;Zika is a great example of how new pathogens are emerging today,&quot; she says. Her new book is 'Pandemic.' Also, book critic Maureen Corrigan reviews 'A Doubter's Almanac.'</itunes:summary>
+    </item>
+    <item>
+      <title>The latest installment of &quot;I've Always Wondered...&quot; looking what goes into the price of a bottle of wine; how Uber is handling the Kalamazoo shooting; and a look at how the National Science Foundation funds projects.&amp;nbsp;</title>
+      <link>http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/yXw6NjchQ2o/pm_20160222_pod_64.mp3</link>
+      <description>The latest installment of &quot;I've Always Wondered...&quot; looking what goes into the price of a bottle of wine; how Uber is handling the Kalamazoo shooting; and a look at how the National Science Foundation funds projects.&amp;nbsp;</description>
+      <enclosure url="http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/yXw6NjchQ2o/pm_20160222_pod_64.mp3"
+        length="12713350"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 22 Feb 2016 20:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/yXw6NjchQ2o/pm_20160222_pod_64.mp3</guid>
+      <dc:date>2016-02-22T20:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>02-22-16 - Marketplace - Pricing wine</itunes:subtitle>
+      <itunes:summary>The latest installment of &quot;I've Always Wondered...&quot; looking what goes into the price of a bottle of wine; how Uber is handling the Kalamazoo shooting; and a look at how the National Science Foundation funds projects.&amp;nbsp;</itunes:summary>
+    </item>
+    <item>
+      <title>After the Nevada and South Carolina primaries, we use the betting markets to take stock of the Republican and Democratic races as they winnow into Super Tuesday.</title>
+      <link>http://c.espnradio.com/s:J1X3L/audio/2685793/fivethirtyeightelections_2016-02-22-190533.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CMidroll3%2CMidroll4%2CMidroll5%2CMidroll6%2CPostroll%2CPostroll2%7Cstation_id%3D4278</link>
+      <description>After the Nevada and South Carolina primaries, we use the betting markets to take stock of the Republican and Democratic races as they winnow into Super Tuesday.</description>
+      <enclosure url="http://c.espnradio.com/s:J1X3L/audio/2685793/fivethirtyeightelections_2016-02-22-190533.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CMidroll3%2CMidroll4%2CMidroll5%2CMidroll6%2CPostroll%2CPostroll2%7Cstation_id%3D4278"
+        length="0"
+        type="audio/mp3"/>
+      <pubDate>Mon, 22 Feb 2016 11:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://c.espnradio.com/s:J1X3L/audio/2685793/fivethirtyeightelections_2016-02-22-190533.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CMidroll3%2CMidroll4%2CMidroll5%2CMidroll6%2CPostroll%2CPostroll2%7Cstation_id%3D4278</guid>
+      <dc:date>2016-02-22T11:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>null</itunes:keywords>
+      <itunes:subtitle>A Round Of Buy/Sell/Hold: 2/22/16</itunes:subtitle>
+      <itunes:summary>After the Nevada and South Carolina primaries, we use the betting markets to take stock of the Republican and Democratic races as they winnow into Super Tuesday.</itunes:summary>
+    </item>
+    <item>
+      <title>Our old friend Adam Scott of Farts and Procreation and U Talkin' U2 To Me? reunites with Scott on this week's Comedy Bang! Bang! Adam Scott Aukerman catch up and talk about actors being truth tellers, beards, and the one thing Adam is most proud of i...</title>
+      <link>http://feeds.soundcloud.com/stream/248281932-comedybangbang-403-adam-scott-tim-baltz-dan-ahdoot.mp3</link>
+      <description>Our old friend Adam Scott of Farts and Procreation and U Talkin' U2 To Me? reunites with Scott on this week's Comedy Bang! Bang! Adam Scott Aukerman catch up and talk about actors being truth tellers, beards, and the one thing Adam is most proud of i...</description>
+      <enclosure url="http://feeds.soundcloud.com/stream/248281932-comedybangbang-403-adam-scott-tim-baltz-dan-ahdoot.mp3"
+        length="81023840"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 22 Feb 2016 08:05:32 -0000</pubDate>
+      <guid isPermaLink="true">http://feeds.soundcloud.com/stream/248281932-comedybangbang-403-adam-scott-tim-baltz-dan-ahdoot.mp3</guid>
+      <dc:date>2016-02-22T08:05:32Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>403 Adam Scott, Tim Baltz, Dan Ahdoot</itunes:subtitle>
+      <itunes:summary>Our old friend Adam Scott of Farts and Procreation and U Talkin' U2 To Me? reunites with Scott on this week's Comedy Bang! Bang! Adam Scott Aukerman catch up and talk about actors being truth tellers, beards, and the one thing Adam is most proud of i...</itunes:summary>
+    </item>
+    <item>
+      <title>Would a UK vote to leave the European Union this year benefit  Europe? Peter Mandelson, the Labour politician, and Daniel Hannan, a Conservative member of the European parliament, debate the question in the first of a series of FT debates on Brexit. 
+
+To read more on Britain's referendum on Europe, go to ft.com/eu-referendum</title>
+      <link>http://rss.acast.com/ft-news/wouldeuropebenefitfromukexitfromeu/media.mp3</link>
+      <description>Would a UK vote to leave the European Union this year benefit  Europe? Peter Mandelson, the Labour politician, and Daniel Hannan, a Conservative member of the European parliament, debate the question in the first of a series of FT debates on Brexit. 
+
+To read more on Britain's referendum on Europe, go to ft.com/eu-referendum</description>
+      <enclosure url="http://rss.acast.com/ft-news/wouldeuropebenefitfromukexitfromeu/media.mp3"
+        length="11148128"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 22 Feb 2016 06:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://rss.acast.com/ft-news/wouldeuropebenefitfromukexitfromeu/media.mp3</guid>
+      <dc:date>2016-02-22T06:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Would Europe benefit from Britain's exit from the EU?</itunes:subtitle>
+      <itunes:summary>Would a UK vote to leave the European Union this year benefit  Europe? Peter Mandelson, the Labour politician, and Daniel Hannan, a Conservative member of the European parliament, debate the question in the first of a series of FT debates on Brexit. 
+
+To read more on Britain's referendum on Europe, go to ft.com/eu-referendum</itunes:summary>
+    </item>
+    <item>
+      <title>Ray and Stromer discuss soundproofing a basement, how to insulate in a hot climate, and what materials to use for a minor kitchen update. They also play a round of Name That Tool, and Ray admits to a big mess up he made on the job site. Show Summary Ray and Stromer open the show [&amp;#8230;]</title>
+      <link>http://serve.castfire.com/audio/2683957/2683957_2016-02-19-150357.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CPostroll%2CPostroll2%7Cstation_id%3D1719&amp;type=.mp3</link>
+      <description>Ray and Stromer discuss soundproofing a basement, how to insulate in a hot climate, and what materials to use for a minor kitchen update. They also play a round of Name That Tool, and Ray admits to a big mess up he made on the job site. Show Summary Ray and Stromer open the show [&amp;#8230;]</description>
+      <enclosure url="http://serve.castfire.com/audio/2683957/2683957_2016-02-19-150357.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CPostroll%2CPostroll2%7Cstation_id%3D1719&amp;type=.mp3"
+        length="5242880"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 21 Feb 2016 04:59:03 -0000</pubDate>
+      <guid isPermaLink="true">http://serve.castfire.com/audio/2683957/2683957_2016-02-19-150357.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CPostroll%2CPostroll2%7Cstation_id%3D1719&amp;type=.mp3</guid>
+      <dc:date>2016-02-21T04:59:03Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>The Way of the Dinosaur</itunes:subtitle>
+      <itunes:summary>Ray and Stromer discuss soundproofing a basement, how to insulate in a hot climate, and what materials to use for a minor kitchen update. They also play a round of Name That Tool, and Ray admits to a big mess up he made on the job site. Show Summary Ray and Stromer open the show [&amp;#8230;]</itunes:summary>
+    </item>
+    <item>
+      <title>This week on The Best of Car Talk, even with one infant on hand and twins on the way, Mara and her husband need a new car, but would rather drive a horse and buggy than a minivan. Will Tom and Ray send them to a dealership, or a stable? Elsewhere, Christine and her mom's cars are sending each other smoke signals from under the hood; Burt is hoping his oil leak replacement plan means he never has to do an oil change; and how should Mario take care of his Mercedes in Italy during the 10 months of the year he spends in Alaska? And, shouldn't his calendar be the other way around? All this and more, this week on The Best of Car Talk.</title>
+      <link>http://play.podtrac.com/npr-510208/npr.mc.tritondigital.com/NPR_510208/media/anon.npr-podcasts/podcast/510208/467489636/npr_467489636.mp3?orgId=1&amp;d=3238&amp;p=510208&amp;story=467489636&amp;t=podcast&amp;e=467489636&amp;ft=pod&amp;f=510208</link>
+      <description>This week on The Best of Car Talk, even with one infant on hand and twins on the way, Mara and her husband need a new car, but would rather drive a horse and buggy than a minivan. Will Tom and Ray send them to a dealership, or a stable? Elsewhere, Christine and her mom's cars are sending each other smoke signals from under the hood; Burt is hoping his oil leak replacement plan means he never has to do an oil change; and how should Mario take care of his Mercedes in Italy during the 10 months of the year he spends in Alaska? And, shouldn't his calendar be the other way around? All this and more, this week on The Best of Car Talk.</description>
+      <enclosure url="http://play.podtrac.com/npr-510208/npr.mc.tritondigital.com/NPR_510208/media/anon.npr-podcasts/podcast/510208/467489636/npr_467489636.mp3?orgId=1&amp;d=3238&amp;p=510208&amp;story=467489636&amp;t=podcast&amp;e=467489636&amp;ft=pod&amp;f=510208"
+        length="25896979"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 20 Feb 2016 17:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://play.podtrac.com/npr-510208/npr.mc.tritondigital.com/NPR_510208/media/anon.npr-podcasts/podcast/510208/467489636/npr_467489636.mp3?orgId=1&amp;d=3238&amp;p=510208&amp;story=467489636&amp;t=podcast&amp;e=467489636&amp;ft=pod&amp;f=510208</guid>
+      <dc:date>2016-02-20T17:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>#1608: Saddle Up!</itunes:subtitle>
+      <itunes:summary>This week on The Best of Car Talk, even with one infant on hand and twins on the way, Mara and her husband need a new car, but would rather drive a horse and buggy than a minivan. Will Tom and Ray send them to a dealership, or a stable? Elsewhere, Christine and her mom's cars are sending each other smoke signals from under the hood; Burt is hoping his oil leak replacement plan means he never has to do an oil change; and how should Mario take care of his Mercedes in Italy during the 10 months of the year he spends in Alaska? And, shouldn't his calendar be the other way around? All this and more, this week on The Best of Car Talk.</itunes:summary>
+    </item>
+    <item>
+      <title>Ace and Ray discuss waterproofing a garage, how to remove paint while preserving the wood underneath it, and how to find and stop multiple roof leaks. Show Summary Adam and Ray open the show talking about a potential Carolla Trivia Game, and staff member Andrew’s bizarre eating habits. Adam then gives an update on his [&amp;#8230;]</title>
+      <link>http://serve.castfire.com/audio/2683954/2683954_2016-02-19-145854.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CPostroll%2CPostroll2%7Cstation_id%3D1719&amp;type=.mp3</link>
+      <description>Ace and Ray discuss waterproofing a garage, how to remove paint while preserving the wood underneath it, and how to find and stop multiple roof leaks. Show Summary Adam and Ray open the show talking about a potential Carolla Trivia Game, and staff member Andrew’s bizarre eating habits. Adam then gives an update on his [&amp;#8230;]</description>
+      <enclosure url="http://serve.castfire.com/audio/2683954/2683954_2016-02-19-145854.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CPostroll%2CPostroll2%7Cstation_id%3D1719&amp;type=.mp3"
+        length="33282004"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 20 Feb 2016 04:59:03 -0000</pubDate>
+      <guid isPermaLink="true">http://serve.castfire.com/audio/2683954/2683954_2016-02-19-145854.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CPostroll%2CPostroll2%7Cstation_id%3D1719&amp;type=.mp3</guid>
+      <dc:date>2016-02-20T04:59:03Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>3 Houses, 1 Washer, No Dryer</itunes:subtitle>
+      <itunes:summary>Ace and Ray discuss waterproofing a garage, how to remove paint while preserving the wood underneath it, and how to find and stop multiple roof leaks. Show Summary Adam and Ray open the show talking about a potential Carolla Trivia Game, and staff member Andrew’s bizarre eating habits. Adam then gives an update on his [&amp;#8230;]</itunes:summary>
+    </item>
+    <item>
+      <title>'Daily Show' host Trevor Noah says his experience growing up with a white father and a black mother in South Africa enables him to see both sides of political issues — which helps when it comes to doing satire. Also, Ken Tucker reviews 'Wild Stab' by the I Don't Cares. Then, as a business reporter in Mexico, Tom Wainwright noticed that the business models of the drug cartels are similar to those of big-box stores and franchises. His new book is 'Narconomics.'</title>
+      <link>http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/467430215/npr_467430215.mp3?orgId=1&amp;d=2985&amp;p=381444908&amp;story=467430215&amp;t=podcast&amp;e=467430215&amp;ft=pod&amp;f=381444908</link>
+      <description>'Daily Show' host Trevor Noah says his experience growing up with a white father and a black mother in South Africa enables him to see both sides of political issues — which helps when it comes to doing satire. Also, Ken Tucker reviews 'Wild Stab' by the I Don't Cares. Then, as a business reporter in Mexico, Tom Wainwright noticed that the business models of the drug cartels are similar to those of big-box stores and franchises. His new book is 'Narconomics.'</description>
+      <enclosure url="http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/467430215/npr_467430215.mp3?orgId=1&amp;d=2985&amp;p=381444908&amp;story=467430215&amp;t=podcast&amp;e=467430215&amp;ft=pod&amp;f=381444908"
+        length="23872704"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 20 Feb 2016 01:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/467430215/npr_467430215.mp3?orgId=1&amp;d=2985&amp;p=381444908&amp;story=467430215&amp;t=podcast&amp;e=467430215&amp;ft=pod&amp;f=381444908</guid>
+      <dc:date>2016-02-20T01:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Best Of: 'Daily Show' Host Trevor Noah / How To Run A Drug Cartel</itunes:subtitle>
+      <itunes:summary>'Daily Show' host Trevor Noah says his experience growing up with a white father and a black mother in South Africa enables him to see both sides of political issues — which helps when it comes to doing satire. Also, Ken Tucker reviews 'Wild Stab' by the I Don't Cares. Then, as a business reporter in Mexico, Tom Wainwright noticed that the business models of the drug cartels are similar to those of big-box stores and franchises. His new book is 'Narconomics.'</itunes:summary>
+    </item>
+    <item>
+      <title>We revisit an episode about friendship with one of our most beloved Sugar guests — the writer Ann Patchett. In this episode, the Sugars take a question from a young woman whose best friend since childhood is about to get married to a man she's known for only six months. The two friends are very different, and the letter writer worries that her impulsive, drama-prone friend is rushing into another bad situation. </title>
+      <link>http://www.podtrac.com/pts/redirect.mp3/audio.wbur.org/storage/2016/02/dearsugar_0219_dear-sugar-episode-seventeen-rerun.mp3</link>
+      <description>We revisit an episode about friendship with one of our most beloved Sugar guests — the writer Ann Patchett. In this episode, the Sugars take a question from a young woman whose best friend since childhood is about to get married to a man she's known for only six months. The two friends are very different, and the letter writer worries that her impulsive, drama-prone friend is rushing into another bad situation. </description>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/audio.wbur.org/storage/2016/02/dearsugar_0219_dear-sugar-episode-seventeen-rerun.mp3"
+        length="34571158"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 20 Feb 2016 00:58:28 -0000</pubDate>
+      <guid isPermaLink="true">http://www.podtrac.com/pts/redirect.mp3/audio.wbur.org/storage/2016/02/dearsugar_0219_dear-sugar-episode-seventeen-rerun.mp3</guid>
+      <dc:date>2016-02-20T00:58:28Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>My Best Friend’s Wedding</itunes:subtitle>
+      <itunes:summary>We revisit an episode about friendship with one of our most beloved Sugar guests — the writer Ann Patchett. In this episode, the Sugars take a question from a young woman whose best friend since childhood is about to get married to a man she's known for only six months. The two friends are very different, and the letter writer worries that her impulsive, drama-prone friend is rushing into another bad situation. </itunes:summary>
+    </item>
+    <item>
+      <title>Both 'Inside Out' and 'Anomalisa' are nominated for Best Animated Film at this year's Oscars. Pixar director Pete Docter talks about illustrates the inner workings of an 11-year-old's mind, personifying Sadness, Fear, Anger, Disgust and Joy. 'Anomalisa' filmmakers Charlie Kaufman and Duke Johnson discuss the challenges of choreographing puppets in everything from walking to a sex scene.</title>
+      <link>http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/467398550/npr_467398550.mp3?orgId=1&amp;d=2898&amp;p=381444908&amp;story=467398550&amp;t=podcast&amp;e=467398550&amp;ft=pod&amp;f=381444908</link>
+      <description>Both 'Inside Out' and 'Anomalisa' are nominated for Best Animated Film at this year's Oscars. Pixar director Pete Docter talks about illustrates the inner workings of an 11-year-old's mind, personifying Sadness, Fear, Anger, Disgust and Joy. 'Anomalisa' filmmakers Charlie Kaufman and Duke Johnson discuss the challenges of choreographing puppets in everything from walking to a sex scene.</description>
+      <enclosure url="http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/467398550/npr_467398550.mp3?orgId=1&amp;d=2898&amp;p=381444908&amp;story=467398550&amp;t=podcast&amp;e=467398550&amp;ft=pod&amp;f=381444908"
+        length="23178400"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 19 Feb 2016 21:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://play.podtrac.com/npr-381444908/npr.mc.tritondigital.com/NPR_381444908/media/anon.npr-podcasts/podcast/381444908/467398550/npr_467398550.mp3?orgId=1&amp;d=2898&amp;p=381444908&amp;story=467398550&amp;t=podcast&amp;e=467398550&amp;ft=pod&amp;f=381444908</guid>
+      <dc:date>2016-02-19T21:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>'Inside Out' And 'Anomalisa' Directors</itunes:subtitle>
+      <itunes:summary>Both 'Inside Out' and 'Anomalisa' are nominated for Best Animated Film at this year's Oscars. Pixar director Pete Docter talks about illustrates the inner workings of an 11-year-old's mind, personifying Sadness, Fear, Anger, Disgust and Joy. 'Anomalisa' filmmakers Charlie Kaufman and Duke Johnson discuss the challenges of choreographing puppets in everything from walking to a sex scene.</itunes:summary>
+    </item>
+    <item>
+      <title>China's appetite for acquiring overseas companies was dealt a major setback this week as regulatory fears hindered two potential takeovers. How will this affect the $44bn ChemChina deal to acquire Swiss agribusiness Syngenta and other large-scale deals? US M&amp;A correspondent James Fontanella-Khan explains.</title>
+      <link>http://rss.acast.com/ft-news/regulatoryfearshaltchinesetakeovers/media.mp3</link>
+      <description>China's appetite for acquiring overseas companies was dealt a major setback this week as regulatory fears hindered two potential takeovers. How will this affect the $44bn ChemChina deal to acquire Swiss agribusiness Syngenta and other large-scale deals? US M&amp;A correspondent James Fontanella-Khan explains.</description>
+      <enclosure url="http://rss.acast.com/ft-news/regulatoryfearshaltchinesetakeovers/media.mp3"
+        length="20774273"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 19 Feb 2016 20:39:44 -0000</pubDate>
+      <guid isPermaLink="true">http://rss.acast.com/ft-news/regulatoryfearshaltchinesetakeovers/media.mp3</guid>
+      <dc:date>2016-02-19T20:39:44Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Regulatory fears halt Chinese takeovers</itunes:subtitle>
+      <itunes:summary>China's appetite for acquiring overseas companies was dealt a major setback this week as regulatory fears hindered two potential takeovers. How will this affect the $44bn ChemChina deal to acquire Swiss agribusiness Syngenta and other large-scale deals? US M&amp;A correspondent James Fontanella-Khan explains.</itunes:summary>
+    </item>
+    <item>
+      <title>&amp;nbsp;What young people want in a car; an interview with YouTube star Grace Helbig; and the Weekly Wrap with Sudeep Reddy and &amp;nbsp;Linette Lopez.&amp;nbsp;</title>
+      <link>http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/fCD5mAQz8Rk/pm_20160219_pod_64.mp3</link>
+      <description>&amp;nbsp;What young people want in a car; an interview with YouTube star Grace Helbig; and the Weekly Wrap with Sudeep Reddy and &amp;nbsp;Linette Lopez.&amp;nbsp;</description>
+      <enclosure url="http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/fCD5mAQz8Rk/pm_20160219_pod_64.mp3"
+        length="12353068"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 19 Feb 2016 20:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://feeds.americanpublicmedia.org/~r/MarketplacePodcast/~5/fCD5mAQz8Rk/pm_20160219_pod_64.mp3</guid>
+      <dc:date>2016-02-19T20:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>02-19-16 - Marketplace - Millennial car shopping</itunes:subtitle>
+      <itunes:summary>&amp;nbsp;What young people want in a car; an interview with YouTube star Grace Helbig; and the Weekly Wrap with Sudeep Reddy and &amp;nbsp;Linette Lopez.&amp;nbsp;</itunes:summary>
+    </item>
+    <item>
+      <title>How can the French culinary phrase 'mise en place' save your band's life and make &lt;em&gt;anyone&lt;/em&gt;'s life a whole lot better?</title>
+      <link>http://play.podtrac.com/npr-510019/npr.mc.tritondigital.com/ALLSONGS_PODCAST/media/anon.npr-mp3/npr/asc/2016/02/20160219_asc_martinatkins_miseenplace.mp3?orgId=1&amp;d=397&amp;p=510019&amp;story=467374129&amp;t=podcast&amp;e=467374129&amp;ft=pod&amp;f=510019</link>
+      <description>How can the French culinary phrase 'mise en place' save your band's life and make &lt;em&gt;anyone&lt;/em&gt;'s life a whole lot better?</description>
+      <enclosure url="http://play.podtrac.com/npr-510019/npr.mc.tritondigital.com/ALLSONGS_PODCAST/media/anon.npr-mp3/npr/asc/2016/02/20160219_asc_martinatkins_miseenplace.mp3?orgId=1&amp;d=397&amp;p=510019&amp;story=467374129&amp;t=podcast&amp;e=467374129&amp;ft=pod&amp;f=510019"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 19 Feb 2016 18:35:00 -0000</pubDate>
+      <guid isPermaLink="true">http://play.podtrac.com/npr-510019/npr.mc.tritondigital.com/ALLSONGS_PODCAST/media/anon.npr-mp3/npr/asc/2016/02/20160219_asc_martinatkins_miseenplace.mp3?orgId=1&amp;d=397&amp;p=510019&amp;story=467374129&amp;t=podcast&amp;e=467374129&amp;ft=pod&amp;f=510019</guid>
+      <dc:date>2016-02-19T18:35:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>All Songs +1: French Cooking And How A Tour Manager Could Save Your Life</itunes:subtitle>
+      <itunes:summary>How can the French culinary phrase 'mise en place' save your band's life and make &lt;em&gt;anyone&lt;/em&gt;'s life a whole lot better?</itunes:summary>
+    </item>
+    <item>
+      <title>
+        &lt;p&gt;In 2010, an eighth-grader brought a loaded gun to a middle school in Hastings, Minnesota. We speak with two students and the principal about the minutes and hours in lockdown. &lt;/p&gt;
+&lt;p&gt;Read Jake Bullington's essay, &quot;&lt;a href=&quot;https://medium.com/middle-of-nowhere-center-of-everything/yeah-i-m-afraid-of-guns-249207f10b93#.8ucu7ev0s&quot; target=&quot;_blank&quot;&gt;Yeah, I'm Afraid of Guns.&lt;/a&gt;&quot; &lt;/p&gt;
+&lt;p&gt;Criminal is a proud member of &lt;a href=&quot;http://www.radiotopia.fm/&quot;&gt;Radiotopia&lt;/a&gt; from PRX. Say hello on Twitter &lt;a href=&quot;https://twitter.com/CriminalShow&quot; target=&quot;_blank&quot;&gt;@criminalshow &lt;/a&gt;and on &lt;a href=&quot;https://www.facebook.com/ThisIsCriminal&quot;&gt;Facebook&lt;/a&gt;. Visit us online at &lt;a href=&quot;http://thisiscriminal.com/&quot; target=&quot;_blank&quot;&gt;thisiscriminal.com&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+      </title>
+      <link>http://feedproxy.google.com/~r/CriminalShow/~5/mIwCwGE2_nc/01_Episode_37__Hastings.mp3</link>
+      <description>
+        &lt;p&gt;In 2010, an eighth-grader brought a loaded gun to a middle school in Hastings, Minnesota. We speak with two students and the principal about the minutes and hours in lockdown. &lt;/p&gt;
+&lt;p&gt;Read Jake Bullington's essay, &quot;&lt;a href=&quot;https://medium.com/middle-of-nowhere-center-of-everything/yeah-i-m-afraid-of-guns-249207f10b93#.8ucu7ev0s&quot; target=&quot;_blank&quot;&gt;Yeah, I'm Afraid of Guns.&lt;/a&gt;&quot; &lt;/p&gt;
+&lt;p&gt;Criminal is a proud member of &lt;a href=&quot;http://www.radiotopia.fm/&quot;&gt;Radiotopia&lt;/a&gt; from PRX. Say hello on Twitter &lt;a href=&quot;https://twitter.com/CriminalShow&quot; target=&quot;_blank&quot;&gt;@criminalshow &lt;/a&gt;and on &lt;a href=&quot;https://www.facebook.com/ThisIsCriminal&quot;&gt;Facebook&lt;/a&gt;. Visit us online at &lt;a href=&quot;http://thisiscriminal.com/&quot; target=&quot;_blank&quot;&gt;thisiscriminal.com&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+      </description>
+      <enclosure url="http://feedproxy.google.com/~r/CriminalShow/~5/mIwCwGE2_nc/01_Episode_37__Hastings.mp3"
+        length="27594480"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 19 Feb 2016 09:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://feedproxy.google.com/~r/CriminalShow/~5/mIwCwGE2_nc/01_Episode_37__Hastings.mp3</guid>
+      <dc:date>2016-02-19T09:00:00Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Episode 37: Hastings</itunes:subtitle>
+      <itunes:summary>
+        &lt;p&gt;In 2010, an eighth-grader brought a loaded gun to a middle school in Hastings, Minnesota. We speak with two students and the principal about the minutes and hours in lockdown. &lt;/p&gt;
+&lt;p&gt;Read Jake Bullington's essay, &quot;&lt;a href=&quot;https://medium.com/middle-of-nowhere-center-of-everything/yeah-i-m-afraid-of-guns-249207f10b93#.8ucu7ev0s&quot; target=&quot;_blank&quot;&gt;Yeah, I'm Afraid of Guns.&lt;/a&gt;&quot; &lt;/p&gt;
+&lt;p&gt;Criminal is a proud member of &lt;a href=&quot;http://www.radiotopia.fm/&quot;&gt;Radiotopia&lt;/a&gt; from PRX. Say hello on Twitter &lt;a href=&quot;https://twitter.com/CriminalShow&quot; target=&quot;_blank&quot;&gt;@criminalshow &lt;/a&gt;and on &lt;a href=&quot;https://www.facebook.com/ThisIsCriminal&quot;&gt;Facebook&lt;/a&gt;. Visit us online at &lt;a href=&quot;http://thisiscriminal.com/&quot; target=&quot;_blank&quot;&gt;thisiscriminal.com&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+      </itunes:summary>
+    </item>
+    <item>
+      <title>What are the justifications for the call from Federal Reserve of Minneapolis President Neel Kashkari that the major banks should be broken up, and are his motivations political or in the best interests of society and investors? Lex US editor Sujeet Indap and US banking editor Ben McLannahan discuss. Music by Kevin MacLeod. </title>
+      <link>http://rss.acast.com/ft-news/bigbankbreak-updebate/media.mp3</link>
+      <description>What are the justifications for the call from Federal Reserve of Minneapolis President Neel Kashkari that the major banks should be broken up, and are his motivations political or in the best interests of society and investors? Lex US editor Sujeet Indap and US banking editor Ben McLannahan discuss. Music by Kevin MacLeod. </description>
+      <enclosure url="http://rss.acast.com/ft-news/bigbankbreak-updebate/media.mp3"
+        length="18806711"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 18 Feb 2016 22:01:32 -0000</pubDate>
+      <guid isPermaLink="true">http://rss.acast.com/ft-news/bigbankbreak-updebate/media.mp3</guid>
+      <dc:date>2016-02-18T22:01:32Z</dc:date>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Big bank break-up debate</itunes:subtitle>
+      <itunes:summary>What are the justifications for the call from Federal Reserve of Minneapolis President Neel Kashkari that the major banks should be broken up, and are his motivations political or in the best interests of society and investors? Lex US editor Sujeet Indap and US banking editor Ben McLannahan discuss. Music by Kevin MacLeod. </itunes:summary>
+    </item>
+    <itunes:category text="Arts">
+      <itunes:category text="Literature"/>
+    </itunes:category>
+    <itunes:image href="/path/to/logo.png"/>
+    <itunes:owner>
+      <itunes:name>RadioPublic</itunes:name>
+      <itunes:email>feeds@radiopublic.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Matt MacDonald</itunes:author>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:keywords>Common, Misspellings, of, Key, Words</itunes:keywords>
+    <itunes:subtitle>This appears in the description column of iTunes</itunes:subtitle>
+    <itunes:summary>This appears when you click the 'circle I' button in iTunes</itunes:summary>
+  </channel>
+</rss>
