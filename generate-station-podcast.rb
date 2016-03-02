@@ -61,7 +61,7 @@ shows.each do |show|
   feed.entries[0].title = "#{show.name} - #{show.teaser}"
   feed.entries[0].summary = feed.description
   feed.entries[0].url = show.website
-  if !show.teaser_audio_url.nil?
+  if !show.teaser_audio_url.empty?
     feed.entries[0].enclosure_url = show.teaser_audio_url
   end
   items << feed.entries[0]
