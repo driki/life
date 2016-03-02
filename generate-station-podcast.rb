@@ -13,6 +13,8 @@ class Show
   attr_accessor :format
   attr_accessor :podcast_url
   attr_accessor :teaser
+  attr_accessor :teaser_audio_url
+  attr_accessor :teaser_image
   attr_accessor :website
 end
 
@@ -23,33 +25,24 @@ playlist = Array.new
 station.items = items
 station.playlist = playlist
 
-raw = Faraday.get("https://spreadsheets.google.com/feeds/cells/1V8eNrK7kSNPf3tfgcVBl8pm4xwHoyV_c2SOQLDLY8M0/od6/public/values?alt=json").body
+SPOTLIGHT = "od6"
+RADIOTOPIA = "o3hs17t"
+
+raw = Faraday.get("https://spreadsheets.google.com/feeds/list/1V8eNrK7kSNPf3tfgcVBl8pm4xwHoyV_c2SOQLDLY8M0/#{SPOTLIGHT}/public/values?alt=json").body
 data = JSON.parse(raw)
 
 shows = Array.new
-show = Show.new
 
-data["feed"]["entry"].each_with_index do |e, index|
-  column = e["gs$cell"]["col"].to_i
-
-  case column
-  when 1
-    show.name = e["content"]["$t"]
-  when 2
-    show.format = e["content"]["$t"]
-  when 3
-    show.podcast_url = e["content"]["$t"]
-  when 4
-    show.teaser = e["content"]["$t"]
-  when 5
-    show.website = e["content"]["$t"]
-  end
-
-  if column == 5
-    shows << show
-    show = Show.new
-  end
-
+data["feed"]["entry"].each do |e|
+  show = Show.new
+  show.name = e["gsx$name"]["$t"]
+  show.format = e["gsx$format"]["$t"]
+  show.podcast_url = e["gsx$feedurl"]["$t"]
+  show.teaser = e["gsx$teaser"]["$t"]
+  show.teaser_audio_url = e["gsx$teaseraudiourl"]["$t"]
+  show.teaser_image = e["gsx$teaserimage"]["$t"]
+  show.website = e["gsx$website"]["$t"]
+  shows << show
 end
 
 shows.each do |show|
