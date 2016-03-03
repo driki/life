@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Spotlight from RadioPublic.</title>
+    <link>http://www.radiopublic.com/spotlight.xml</link>
+    <description>Listen to previews and trailers for podcasts and radio shows.</description>
+    <language>en-us</language>
+    <copyright>Copyright 2016</copyright>
+    <lastBuildDate>Wed, 02 Mar 2016 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>http://www.example.com/images/app_rss_logo.jpg</url>
+      <title>Spotlight from RadioPublic.</title>
+      <link>http://www.radiopublic.com/spotlight.xml</link>
+    </image>
+    <item>
+      <title>Deutsch perfekt Podcast - </title>
+      <link></link>
+      <description>Der Podcast des Magazins für Deutsch-Lerner</description>
+      <enclosure url="http://www.deutsch-perfekt.com/audio/download/4456/PC1.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 02 Mar 2016 23:04:05 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-03-02T23:04:05Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>Deutsch perfekt Podcast - </itunes:subtitle>
+      <itunes:summary>Der Podcast des Magazins für Deutsch-Lerner</itunes:summary>
+    </item>
+    <item>
+      <title>RAC105 Podcast: FRICANDO MATINER-ELIGRIES - </title>
+      <link></link>
+      <description>Podcasts de RAC105</description>
+      <enclosure url="http://www.racalacarta.com/download.php-file=0302%2007h%20(Dimecres%2002-03-16)%20ELIgries%20(%20).mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 02 Mar 2016 08:35:03 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-03-02T08:35:03Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>RAC105 Podcast: FRICANDO MATINER-ELIGRIES - </itunes:subtitle>
+      <itunes:summary>Podcasts de RAC105</itunes:summary>
+    </item>
+    <item>
+      <title>95bFM — The Wire - </title>
+      <link></link>
+      <description>Listen back to features and interviews from 95bFM&amp;apos;s daily news &amp;amp; current affairs show, The Wire. Your hosts Nick Bond, Alice Gatland, Sara Shirazi, Anna Bracewell-Worrall and Chlöe Swarbrick focus on the issues of Tāmaki Makaurau and elsewhere, in independent-thinking bFM style. Weekdays 12-1pm on 95bFM.</description>
+      <enclosure url="http://95bfm.com/assets/sm/upload/fd/ag/f5/hp/familyplanning.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 02 Mar 2016 00:31:00 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-03-02T00:31:00Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>95bFM — The Wire - </itunes:subtitle>
+      <itunes:summary>Listen back to features and interviews from 95bFM&amp;apos;s daily news &amp;amp; current affairs show, The Wire. Your hosts Nick Bond, Alice Gatland, Sara Shirazi, Anna Bracewell-Worrall and Chlöe Swarbrick focus on the issues of Tāmaki Makaurau and elsewhere, in independent-thinking bFM style. Weekdays 12-1pm on 95bFM.</itunes:summary>
+    </item>
+    <item>
+      <title>POWER GROOVE RADIO PODCAST - </title>
+      <link></link>
+      <description>For the best in old school music like Hip Hop, R&amp;B,Blues,Pop, Rock Reggae. Because eye am that old school D.J. Sun Re 9.We play the music that give you the power to keep on grooving!!!</description>
+      <enclosure url="https://api.spreaker.com/download/episode/7901838/bringing_back_the_80_s_pop_rock_classics.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 01 Mar 2016 15:30:13 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-03-01T15:30:13Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>rock, pop, sunre9, powergrooveradio</itunes:keywords>
+      <itunes:subtitle>POWER GROOVE RADIO PODCAST - </itunes:subtitle>
+      <itunes:summary>For the best in old school music like Hip Hop, R&amp;B,Blues,Pop, Rock Reggae. Because eye am that old school D.J. Sun Re 9.We play the music that give you the power to keep on grooving!!!</itunes:summary>
+    </item>
+    <item>
+      <title>After Sectionals - </title>
+      <link></link>
+      <description>the podcast about all things band</description>
+      <enclosure url="http://traffic.libsyn.com/aftersectionals/AS_002.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 01 Mar 2016 05:21:03 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-03-01T05:21:03Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>After Sectionals - </itunes:subtitle>
+      <itunes:summary>the podcast about all things band</itunes:summary>
+    </item>
+    <item>
+      <title>Wagons West - </title>
+      <link></link>
+      <description>Wagons West was the cry heard through the east as America pioneers set there sights on the wide open spaces and land of the west. These are stories of brave settlers, army life, gunfighters,prairie towns and Marshall's. Let us go back to with wild west in early radio.   Sponsored by oldtimeradiodvd.com</description>
+      <enclosure url="http://traffic.libsyn.com/wagonswest/LoneRangerGulchCreekCrooks10-25-40f.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 29 Feb 2016 06:00:00 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-02-29T06:00:00Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>western</itunes:keywords>
+      <itunes:subtitle>Wagons West - </itunes:subtitle>
+      <itunes:summary>Wagons West was the cry heard through the east as America pioneers set there sights on the wide open spaces and land of the west. These are stories of brave settlers, army life, gunfighters,prairie towns and Marshall's. Let us go back to with wild west in early radio.   Sponsored by oldtimeradiodvd.com</itunes:summary>
+    </item>
+    <item>
+      <title>Christ Community Church 's Podcast - </title>
+      <link></link>
+      <description>Download a Podcast message to listen on the run or go to our web page at www.christchurchpaducah.com and watch Pastor Tim's messages. </description>
+      <enclosure url="http://podpoint.com/download/f076ef147a08e161e7a3a3edf1d67e01.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 28 Feb 2016 16:30:00 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-02-28T16:30:00Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>Christ Community Church 's Podcast - </itunes:subtitle>
+      <itunes:summary>Download a Podcast message to listen on the run or go to our web page at www.christchurchpaducah.com and watch Pastor Tim's messages. </itunes:summary>
+    </item>
+    <item>
+      <title>East Campus | Highview Baptist Church - </title>
+      <link></link>
+      <description></description>
+      <enclosure url="http://www.highview.org/am-site/media/east-2-28-16.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 28 Feb 2016 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-02-28T05:00:00Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>East Campus | Highview Baptist Church - </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+    </item>
+    <item>
+      <title>ECFR - </title>
+      <link></link>
+      <description>Foreign policy podcasts from the European Council on Foreign Relations (ECFR), the first pan-European think-tank. Launched in October 2007, its objective is to conduct research and promote informed debate across Europe on the development of coherent and effective European values-based foreign policy.</description>
+      <enclosure url="http://feeds.soundcloud.com/stream/249017809-ecfr-ecfrs-world-in-30-minutes-the-british-membership-of-the-eu.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 26 Feb 2016 15:14:31 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-02-26T15:14:31Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>ECFR - </itunes:subtitle>
+      <itunes:summary>Foreign policy podcasts from the European Council on Foreign Relations (ECFR), the first pan-European think-tank. Launched in October 2007, its objective is to conduct research and promote informed debate across Europe on the development of coherent and effective European values-based foreign policy.</itunes:summary>
+    </item>
+    <item>
+      <title>BBK Podcast - </title>
+      <link></link>
+      <description>Psychotherapy, parental counseling, marriage counseling</description>
+      <enclosure url="http://traffic.libsyn.com/preview/bbkps/BBKPodcast-06.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 26 Feb 2016 03:36:06 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-02-26T03:36:06Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>BBK Podcast - </itunes:subtitle>
+      <itunes:summary>Psychotherapy, parental counseling, marriage counseling</itunes:summary>
+    </item>
+    <item>
+      <title>Radio DMG - A Part of the DMG Ice Family of Awesome Content » Radio Dmg Shows - </title>
+      <link></link>
+      <description>The weirdest little show of awesome ever. Possibly.</description>
+      <enclosure url="http://www.radiodmg.com/shows/radiodmg058.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 25 Feb 2016 02:04:51 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-02-25T02:04:51Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>pokemon, 3ds, dsi, dsiware, nintendo, psp, sony, sega, gameboy, game, boy, gear, legend, of, zelda, gaming, gamers, greatness, winning</itunes:keywords>
+      <itunes:subtitle>Radio DMG - A Part of the DMG Ice Family of Awesome Content » Radio Dmg Shows - </itunes:subtitle>
+      <itunes:summary>The weirdest little show of awesome ever. Possibly.</itunes:summary>
+    </item>
+    <item>
+      <title>Podcast Parrucchieri - </title>
+      <link></link>
+      <description>Il podcast dedicato al marketing offline ed online per parrucchieri, condotto da Lelio &quot;lele&quot; Canavero e Nicobenz Ambrosecchia</description>
+      <enclosure url="https://api.spreaker.com/download/episode/7861834/quelli_che_il_marketing.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 24 Feb 2016 22:19:35 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-02-24T22:19:35Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>marketing, corsi, social, formazione, parrucchieri</itunes:keywords>
+      <itunes:subtitle>Podcast Parrucchieri - </itunes:subtitle>
+      <itunes:summary>Il podcast dedicato al marketing offline ed online per parrucchieri, condotto da Lelio &quot;lele&quot; Canavero e Nicobenz Ambrosecchia</itunes:summary>
+    </item>
+    <item>
+      <title>Green is Good Radio - </title>
+      <link></link>
+      <description>Weekly Podcast on Environmental Issues</description>
+      <enclosure url="http://traffic.libsyn.com/recycling/Emerging_Green_2015_-_Jeffery_Bock.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 24 Feb 2016 16:02:00 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-02-24T16:02:00Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>Green is Good Radio - </itunes:subtitle>
+      <itunes:summary>Weekly Podcast on Environmental Issues</itunes:summary>
+    </item>
+    <item>
+      <title>Epic Tiki's Take: The Podcast - </title>
+      <link></link>
+      <description>The “insanely popular” YouTube webseries in podcast form!</description>
+      <enclosure url="http://epictikistake.podbean.com/mf/feed/2t8ugu/Episode7-HadtoKillCloneBabies.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 23 Feb 2016 19:18:38 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-02-23T19:18:38Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>Epic Tiki's Take: The Podcast - </itunes:subtitle>
+      <itunes:summary>The “insanely popular” YouTube webseries in podcast form!</itunes:summary>
+    </item>
+    <item>
+      <title>From Helios to Hollywood - </title>
+      <link></link>
+      <description>Podcast by Pure Textuality PR</description>
+      <enclosure url="http://feeds.soundcloud.com/stream/247594227-jena-gregoire-from-helios-to-hollywood-e0000002.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 17 Feb 2016 23:04:36 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-02-17T23:04:36Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>From Helios to Hollywood - </itunes:subtitle>
+      <itunes:summary>Podcast by Pure Textuality PR</itunes:summary>
+    </item>
+    <item>
+      <title>Audio-Pfad (Audio-Pfad Podcast Feed) - </title>
+      <link></link>
+      <description>Pfadfindergespräche</description>
+      <enclosure url="http://audio-pfad.de/pod/APPG003_Musisches_mit_Christian.m4a"
+        length="0"
+        type="audio/mp4"/>
+      <pubDate>Sun, 14 Feb 2016 12:34:00 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-02-14T12:34:00Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>Audio-Pfad (Audio-Pfad Podcast Feed) - </itunes:subtitle>
+      <itunes:summary>Pfadfindergespräche</itunes:summary>
+    </item>
+    <item>
+      <title>Mamma ho perso il Live! - </title>
+      <link></link>
+      <description>Un'attenta e ragionata selezione musicale.
+
+&quot;I wanna Rock!&quot;</description>
+      <enclosure url="https://api.spreaker.com/download/episode/7748884/bachcpe_sonataamin_1.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 09 Feb 2016 10:10:47 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-02-09T10:10:47Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>Mamma ho perso il Live! - </itunes:subtitle>
+      <itunes:summary>Un'attenta e ragionata selezione musicale.
+
+&quot;I wanna Rock!&quot;</itunes:summary>
+    </item>
+    <item>
+      <title>Côte et mer France Bleu Breizh Izel - </title>
+      <link></link>
+      <description>Sur une île ou sur un bateau.., actu mer, phare, bateau, île, port, étranger.</description>
+      <enclosure url="http://rf.proxycast.org/1126971294496071680/14786-06.02.2016-ITEMA_20907220-0.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 06 Feb 2016 06:41:00 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-02-06T06:41:00Z</dc:date>
+      <itunes:author>podcast@radiofrance.com</itunes:author>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>&quot;Côte, et, mer&quot;, du, samedi, , 6, février, 2016</itunes:keywords>
+      <itunes:subtitle>Côte et mer France Bleu Breizh Izel - </itunes:subtitle>
+      <itunes:summary>Sur une île ou sur un bateau.., actu mer, phare, bateau, île, port, étranger.</itunes:summary>
+    </item>
+    <item>
+      <title>Radio Brasileirinho - </title>
+      <link></link>
+      <description>A Radio Brasileirinho é um podcast de entrevistas com profissionais ou empreendedores brasileiros no exterior que descrevem sua trajetória e o que fizeram exatamente para alcançar seu crescimento.  O espaço também apresenta profissionais que capacitam e treinam assim como falam sobre seus negócios ou serviços.  Saiba sobre futuras entrevistas no site www.brasileirinho.com e se você estiver escutando através do iTunes, não deixe de assinar o feed! </description>
+      <enclosure url="http://feeds.soundcloud.com/stream/243474982-brasileirinho-visto-religioso.m4a"
+        length="0"
+        type="audio/x-m4a"/>
+      <pubDate>Sun, 24 Jan 2016 02:14:22 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-01-24T02:14:22Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>Radio Brasileirinho - </itunes:subtitle>
+      <itunes:summary>A Radio Brasileirinho é um podcast de entrevistas com profissionais ou empreendedores brasileiros no exterior que descrevem sua trajetória e o que fizeram exatamente para alcançar seu crescimento.  O espaço também apresenta profissionais que capacitam e treinam assim como falam sobre seus negócios ou serviços.  Saiba sobre futuras entrevistas no site www.brasileirinho.com e se você estiver escutando através do iTunes, não deixe de assinar o feed! </itunes:summary>
+    </item>
+    <item>
+      <title>Just Chips Dot Com - </title>
+      <link></link>
+      <description>We love chips! Join your hosts Zoë and Sophia as we crunch our way through a sea of chip varieties in search of our favourites. Each episode, we eat and critique two bags of chips. Ultimately, though, only one chip can win.</description>
+      <enclosure url="http://feeds.soundcloud.com/stream/242849295-justchipsdotcom-008-the-chipness-protection-program.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2016-01-19T00:00:00Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>Just Chips Dot Com - </itunes:subtitle>
+      <itunes:summary>We love chips! Join your hosts Zoë and Sophia as we crunch our way through a sea of chip varieties in search of our favourites. Each episode, we eat and critique two bags of chips. Ultimately, though, only one chip can win.</itunes:summary>
+    </item>
+    <item>
+      <title>Posts – Why Hamburg? - </title>
+      <link></link>
+      <description>finding out why internationals choose Hamburg</description>
+      <enclosure url="http://why-hamburg.com/wp-content/uploads/sites/3/2015/12/mahmoud-1.mp3"
+        length="0"
+        type=""/>
+      <pubDate>Fri, 18 Dec 2015 09:50:29 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2015-12-18T09:50:29Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>hamburg, international, english</itunes:keywords>
+      <itunes:subtitle>Posts – Why Hamburg? - </itunes:subtitle>
+      <itunes:summary>finding out why internationals choose Hamburg</itunes:summary>
+    </item>
+    <item>
+      <title>Hygge Podcast - </title>
+      <link></link>
+      <description>This is our podcast about everything and nothing. Listen to our little drops of ear candy and remember to subscribe so you don't miss a episode. Also like our page on facebook (facebook.com/hyggepodcast) . :)
+
+
+</description>
+      <enclosure url="http://feeds.soundcloud.com/stream/236174566-hyggepodcast-hygge008-on-this-episode-we-enjoy-some-of-buzzfeeds-many-quizzes-and-i-slay-buffy.m4a"
+        length="0"
+        type="audio/x-m4a"/>
+      <pubDate>Sat, 05 Dec 2015 09:04:25 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2015-12-05T09:04:25Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>Hygge Podcast - </itunes:subtitle>
+      <itunes:summary>This is our podcast about everything and nothing. Listen to our little drops of ear candy and remember to subscribe so you don't miss a episode. Also like our page on facebook (facebook.com/hyggepodcast) . :)
+
+
+</itunes:summary>
+    </item>
+    <item>
+      <title>Soul Punch - </title>
+      <link></link>
+      <description>To spark and inspire thought and conversation.</description>
+      <enclosure url="http://feeds.soundcloud.com/stream/236128331-cjbarks-soul-punch-ep-4-why-tristan-is-moving-across-the-world.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 04 Dec 2015 23:43:11 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2015-12-04T23:43:11Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>Soul Punch - </itunes:subtitle>
+      <itunes:summary>To spark and inspire thought and conversation.</itunes:summary>
+    </item>
+    <item>
+      <title>Wisdom Scripture - </title>
+      <link></link>
+      <description>Read from the New International Version (NIV). Job, Proverbs, Ecclesiastes, Song of Songs.</description>
+      <enclosure url="http://api.spreaker.com/download/episode/6591524/ecclesiastes_a.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 07 Sep 2015 14:49:03 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2015-09-07T14:49:03Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>audio, bible, holy, scripture, ecclesiastes</itunes:keywords>
+      <itunes:subtitle>Wisdom Scripture - </itunes:subtitle>
+      <itunes:summary>Read from the New International Version (NIV). Job, Proverbs, Ecclesiastes, Song of Songs.</itunes:summary>
+    </item>
+    <item>
+      <title>Iglesia Ciudad de Dios - </title>
+      <link></link>
+      <description>Aqui podras encontras los mensajes realizado en la Iglesia Cristiana Ciudad de Dios en Caguas, Puerto Rico con los Pastores Rafael Rosario y Dorcas Ruperto.</description>
+      <enclosure url="http://www.ivoox.com/no-morire-en-mi-camino_mf_7697989_feed_1.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 30 Aug 2015 22:49:18 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2015-08-30T22:49:18Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>Iglesia Ciudad de Dios - </itunes:subtitle>
+      <itunes:summary>Aqui podras encontras los mensajes realizado en la Iglesia Cristiana Ciudad de Dios en Caguas, Puerto Rico con los Pastores Rafael Rosario y Dorcas Ruperto.</itunes:summary>
+    </item>
+    <item>
+      <title>Ernest Radio Network - </title>
+      <link></link>
+      <description>Ernest Radio Network is on indefinite break.  Thank you for listening.
+You can find The Ernest Show bi-weekly, plus more, at YouTube.com/ErnestLSewell,  See ya there!</description>
+      <enclosure url="http://www.blogtalkradio.com/ernestradionetwork/2015/01/06/music-monday-the-budos-band--the-budos-band.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 06 Jan 2015 01:00:00 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2015-01-06T01:00:00Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>budos band, independent music, daptone records, independent artist</itunes:keywords>
+      <itunes:subtitle>Ernest Radio Network - </itunes:subtitle>
+      <itunes:summary>Ernest Radio Network is on indefinite break.  Thank you for listening.
+You can find The Ernest Show bi-weekly, plus more, at YouTube.com/ErnestLSewell,  See ya there!</itunes:summary>
+    </item>
+    <item>
+      <title>Newlife Uniting Church - </title>
+      <link></link>
+      <description>Newlife Uniting is an evangelical Christian church located in the heart of the Gold Coast, Queensland, Australia.</description>
+      <enclosure url="http://newlifeuniting.com/messages/media/2014-03-19_160314_ralph_mayhew_red_3_robina.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 19 Mar 2014 02:01:18 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2014-03-19T02:01:18Z</dc:date>
+      <itunes:author>creative@church.nu (Newlife Uniting Church)</itunes:author>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>Newlife Uniting Church - </itunes:subtitle>
+      <itunes:summary>Newlife Uniting is an evangelical Christian church located in the heart of the Gold Coast, Queensland, Australia.</itunes:summary>
+    </item>
+    <item>
+      <title>PROMO - DJ Panic - </title>
+      <link></link>
+      <enclosure url="http://joshy73.podOmatic.com/enclosure/2014-02-19T15_42_15-08_00.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 19 Feb 2014 23:42:15 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2014-02-19T23:42:15Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>PROMO - DJ Panic - </itunes:subtitle>
+    </item>
+    <item>
+      <title>LAFANCLUB - </title>
+      <link></link>
+      <pubDate>Mon, 09 Jul 2012 17:56:47 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2012-07-09T17:56:47Z</dc:date>
+      <itunes:author>dellbaron@yahoo.fr (Lafanclub)</itunes:author>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>LAFANCLUB - </itunes:subtitle>
+    </item>
+    <item>
+      <title>OCLS Podcast - </title>
+      <link></link>
+      <description>Experience the Orange County Library System (Orlando, Florida area) through program highlights, storytelling, and more!</description>
+      <enclosure url="http://traffic.libsyn.com/oclspodcast/ocls_jeffashton.mp4"
+        length="0"
+        type="video/x-mp4"/>
+      <pubDate>Mon, 28 Nov 2011 16:55:18 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2011-11-28T16:55:18Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>OCLS Podcast - </itunes:subtitle>
+      <itunes:summary>Experience the Orange County Library System (Orlando, Florida area) through program highlights, storytelling, and more!</itunes:summary>
+    </item>
+    <item>
+      <title>HeritageBands - </title>
+      <link></link>
+      <description>Home of the podcast for the Heritage HS Bands.  Thanks for visiting!</description>
+      <enclosure url="https://docs.google.com/uc?id=0B8HpJTDc6ij6NDk3ZmZiZWUtYjE2YS00OTBjLTgzOWQtMGE4NzcxNzgxMDQz&amp;export=download&amp;hl=en_US"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 07 Sep 2011 21:25:00 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2011-09-07T21:25:00Z</dc:date>
+      <itunes:author>kkeena@lps.k12.co.us (Kevin Keena)</itunes:author>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>music, band, education, high, school, Heritage, Keena, performing, arts, practice, podcast</itunes:keywords>
+      <itunes:subtitle>HeritageBands - </itunes:subtitle>
+      <itunes:summary>Home of the podcast for the Heritage HS Bands.  Thanks for visiting!</itunes:summary>
+    </item>
+    <item>
+      <title>Weekly Rotary Redcliffe Guests (iPod) - </title>
+      <link></link>
+      <description>A video review of the wonderful guests that speak at Rotary Redcliffe City's Weekly Meeting</description>
+      <enclosure url="https://podcastmachine.com/podcasts/3477/episodes/48115/media_files/112538/download/3/file_flash_h264_640_480.mp4"
+        length="0"
+        type="video/mp4"/>
+      <pubDate>Thu, 09 Jun 2011 21:19:16 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2011-06-09T21:19:16Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>rotarty redcliffe we are, what is rotary</itunes:keywords>
+      <itunes:subtitle>Weekly Rotary Redcliffe Guests (iPod) - </itunes:subtitle>
+      <itunes:summary>A video review of the wonderful guests that speak at Rotary Redcliffe City's Weekly Meeting</itunes:summary>
+    </item>
+    <item>
+      <title>BBA Baseball Talk - </title>
+      <link></link>
+      <description>The members of the Baseball Bloggers Alliance bring you a weekly show that talks about the wide world of MLB.</description>
+      <enclosure url="http://www.blogtalkradio.com/baseball-bloggers-alliance/2011/01/19/bba-baseball-talk.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 19 Jan 2011 03:00:00 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2011-01-19T03:00:00Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>Peter Abraham, Boston Globe, Boston Red Sox, Jim Breen, Bernines Crew</itunes:keywords>
+      <itunes:subtitle>BBA Baseball Talk - </itunes:subtitle>
+      <itunes:summary>The members of the Baseball Bloggers Alliance bring you a weekly show that talks about the wide world of MLB.</itunes:summary>
+    </item>
+    <item>
+      <title>Visión Mundial para la Familia - </title>
+      <link></link>
+      <description>Visión Mundial Para la Familia es una iglesia ubicada en la ciudad de Dallas, Texas.
+La finalidad de este podcast es compartir y bendecir a los hispano parlantes con la Palabra de Dios, compartida de una forma fácil, clara y práctica.
+(www.vmfusa.org)</description>
+      <enclosure url="http://www.vmfusa.org/media/audios/dic_2010/VP_Las_sobras%20correctas_Dic_05_2010.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 09 Dec 2010 01:04:37 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2010-12-09T01:04:37Z</dc:date>
+      <itunes:author>info@vmfusa.org</itunes:author>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>predicaciones, predicas, predica, conferencia, Angelo Pavesio</itunes:keywords>
+      <itunes:subtitle>Visión Mundial para la Familia - </itunes:subtitle>
+      <itunes:summary>Visión Mundial Para la Familia es una iglesia ubicada en la ciudad de Dallas, Texas.
+La finalidad de este podcast es compartir y bendecir a los hispano parlantes con la Palabra de Dios, compartida de una forma fácil, clara y práctica.
+(www.vmfusa.org)</itunes:summary>
+    </item>
+    <item>
+      <title>WebTalkRadio.net » X-Squared Radio - </title>
+      <link></link>
+      <description>The Best Internet Radio. The Future of Talk Radio. It's Web Talk Radio.</description>
+      <enclosure url="http://media.blubrry.com/webtalkradio/webtalkradio.net/Shows/XSquaredRadio/week1034.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 16 Aug 2010 05:01:03 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2010-08-16T05:01:03Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>WebTalkRadio.net » X-Squared Radio - </itunes:subtitle>
+      <itunes:summary>The Best Internet Radio. The Future of Talk Radio. It's Web Talk Radio.</itunes:summary>
+    </item>
+    <item>
+      <title>Chichewa Bible - </title>
+      <link></link>
+      <description>The Chichewa Audio Drama New Testament (BLV) is a unique presentation of the Audio Bible with approximately 180 different characters and a digitally recorded sound track with full sound effects. For a list of other available languages go to our website at http://FaithComesByHearing.com. The mission of Faith Comes By Hearing is to bring His Church together and make disciples from every nation, tribe, language, and people: to give every person the opportunity to listen completely through the New Testament in their heart language.</description>
+      <enclosure url="http://podcastdownload.faithcomesbyhearing.com/mp3.php/NYJBLVN2DA/B01___01_Matthew_____NYJBLVN2DA.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 31 Dec 2009 05:22:16 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2009-12-31T05:22:16Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>Bible, Testament, Jesus, Scripture, Holy, God, Heaven, Hell, Gospel, Christian, Bible.is, Church</itunes:keywords>
+      <itunes:subtitle>Chichewa Bible - </itunes:subtitle>
+      <itunes:summary>The Chichewa Audio Drama New Testament (BLV) is a unique presentation of the Audio Bible with approximately 180 different characters and a digitally recorded sound track with full sound effects. For a list of other available languages go to our website at http://FaithComesByHearing.com. The mission of Faith Comes By Hearing is to bring His Church together and make disciples from every nation, tribe, language, and people: to give every person the opportunity to listen completely through the New Testament in their heart language.</itunes:summary>
+    </item>
+    <item>
+      <title>Retroquest - </title>
+      <link></link>
+      <description>The retro gaming podcast from InsertCredits.com.</description>
+      <enclosure url="http://feedproxy.google.com/~r/Retroquest/~5/81i6MRmbEKI/003-Retroquest-Sonic2.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 04 Dec 2009 16:58:00 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2009-12-04T16:58:00Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>genesis, Retroquest, sega, sonic 2, sonic the hedgehog</itunes:keywords>
+      <itunes:subtitle>Retroquest - </itunes:subtitle>
+      <itunes:summary>The retro gaming podcast from InsertCredits.com.</itunes:summary>
+    </item>
+    <item>
+      <title>Laser Spectroscopy Podcast - </title>
+      <link></link>
+      <description>Lecture recordings from Physics 268 at San Jose State University.  75 minute enhanced audio epsiodes will be added on Monday and Wednesday nights throughout Fall of 2009.</description>
+      <enclosure url="http://www.sjsu.edu/faculty/beyersdorf/Phys268/11-30%20Laser%20Frequency%20Stabilization.m4a"
+        length="0"
+        type="audio/x-m4a"/>
+      <pubDate>Tue, 01 Dec 2009 01:26:32 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2009-12-01T01:26:32Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>byersdorf, beiersdorf, biersdorf, demtroder</itunes:keywords>
+      <itunes:subtitle>Laser Spectroscopy Podcast - </itunes:subtitle>
+      <itunes:summary>Lecture recordings from Physics 268 at San Jose State University.  75 minute enhanced audio epsiodes will be added on Monday and Wednesday nights throughout Fall of 2009.</itunes:summary>
+    </item>
+    <item>
+      <title>Summer at NCS - </title>
+      <link></link>
+      <description>Summers at National Cathedral School offer outstanding enrichment courses and exciting sports camps.From Climbing, Creative Writing, Digital Photography, and Soccer, to Robotics and Cooking with Math, Summer at NCS is a learning adventure.</description>
+      <enclosure url="http://picasaweb.google.com/s/c/bin/slideshow.swf"
+        length="0"
+        type="application/x-shockwave-flash"/>
+      <pubDate>Wed, 05 Aug 2009 18:02:54 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2009-08-05T18:02:54Z</dc:date>
+      <itunes:author>ldeocares@cathedral.org (Summer Camp Institute )</itunes:author>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>Multimedia, podcast, school, summer, camp, technology, NCS, National, Cathedral, Robotics, Photoshop, Animation, video, editing, sound, voice, voice, over, K, 12, Middle, School</itunes:keywords>
+      <itunes:subtitle>Summer at NCS - </itunes:subtitle>
+      <itunes:summary>Summers at National Cathedral School offer outstanding enrichment courses and exciting sports camps.From Climbing, Creative Writing, Digital Photography, and Soccer, to Robotics and Cooking with Math, Summer at NCS is a learning adventure.</itunes:summary>
+    </item>
+    <item>
+      <title>Free: The Future of a Radical Price Podcast - </title>
+      <link></link>
+      <description>Chris Anderson, The New York Times best-selling author of &quot;The Long Tail&quot;, heralds the future of business in &quot;Free&quot;. In this podcast, you can download all sixteen chapters of the unabridged audiobook narrated by Chris himself. Each episode is a separate chapter of the book and all are available instantly -- and free of charge!</description>
+      <enclosure url="http://downloads.wired.com/podcasts/assets/free/01FREE_Prologue.mp3"
+        length="0"
+        type="audio/x-mp3"/>
+      <pubDate>Wed, 29 Jul 2009 19:00:00 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2009-07-29T19:00:00Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>Business, Non-Fiction, Technology</itunes:keywords>
+      <itunes:subtitle>Free: The Future of a Radical Price Podcast - </itunes:subtitle>
+      <itunes:summary>Chris Anderson, The New York Times best-selling author of &quot;The Long Tail&quot;, heralds the future of business in &quot;Free&quot;. In this podcast, you can download all sixteen chapters of the unabridged audiobook narrated by Chris himself. Each episode is a separate chapter of the book and all are available instantly -- and free of charge!</itunes:summary>
+    </item>
+    <item>
+      <title>Lauf TV - Videocast rund um den Laufsport - </title>
+      <link></link>
+      <description>Lauf TV - der Videocast rund um den Laufsport. Mit Reportage rund um Laufveranstaltungen, Trainingsstrecken, Produktvorstellungen und Produkttests. Viele weitere Informationen auch unter www.lauftv.de</description>
+      <enclosure url="http://lauftv.podspot.de/files/oeger_runanta.m4v"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 22 Mar 2009 17:17:16 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2009-03-22T17:17:16Z</dc:date>
+      <itunes:author>www.lauftv.de</itunes:author>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>Lauf TV - Videocast rund um den Laufsport - </itunes:subtitle>
+      <itunes:summary>Lauf TV - der Videocast rund um den Laufsport. Mit Reportage rund um Laufveranstaltungen, Trainingsstrecken, Produktvorstellungen und Produkttests. Viele weitere Informationen auch unter www.lauftv.de</itunes:summary>
+    </item>
+    <item>
+      <title>Drink Tank - </title>
+      <link></link>
+      <enclosure url="http://supermasterpiece.com/drinktankmedia/DrinkTank003.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 05 Mar 2008 14:34:22 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2008-03-05T14:34:22Z</dc:date>
+      <itunes:author>andrew@supermasterpiece.com</itunes:author>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>drink tank politics pop culture</itunes:keywords>
+      <itunes:subtitle>Drink Tank - </itunes:subtitle>
+    </item>
+    <item>
+      <title>MUSIC/ FILMS VIDEO/ CLIP MUSIC VIDEO/ IMAGES/ PHOTO/ LIVRE/ REALISATION DE JAIR JEAN PIERRE - </title>
+      <link></link>
+      <description>          http://originalwebsiteforsale.tvextraterrestre.com
+WEB SITES FOR SALE:
+www.tvextraterrestre.com
+http://www.pcservicobrasileiro.tvextraterrestre.com/
+http://www.boutique.tvextraterrestre.com/
+http://www.tvmzo.tvextraterrestre.com/
+http://www.shoppingstars.tvextraterrestre.com/</description>
+      <enclosure url="http://imagessynthesized.podOmatic.com/enclosure/2006-10-11T00_04_09-07_00.mp3_a"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 11 Oct 2006 07:04:09 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2006-10-11T07:04:09Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:subtitle>MUSIC/ FILMS VIDEO/ CLIP MUSIC VIDEO/ IMAGES/ PHOTO/ LIVRE/ REALISATION DE JAIR JEAN PIERRE - </itunes:subtitle>
+      <itunes:summary>          http://originalwebsiteforsale.tvextraterrestre.com
+WEB SITES FOR SALE:
+www.tvextraterrestre.com
+http://www.pcservicobrasileiro.tvextraterrestre.com/
+http://www.boutique.tvextraterrestre.com/
+http://www.tvmzo.tvextraterrestre.com/
+http://www.shoppingstars.tvextraterrestre.com/</itunes:summary>
+    </item>
+    <item>
+      <title>91.3fm WYEP: 3rd Thursdays - </title>
+      <link></link>
+      <description>WYEP's monthly local music happy hour</description>
+      <enclosure url="http://podcasts.wyep.org/3rd-0605.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 19 May 2006 04:00:00 -0000</pubDate>
+      <guid isPermaLink="true"></guid>
+      <dc:date>2006-05-19T04:00:00Z</dc:date>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:keywords>podcast, podcasting, podcaster, public radio, wyep, 91.3fm wyep, Pittsburgh, local music, The Boogie Hustlers, test</itunes:keywords>
+      <itunes:subtitle>91.3fm WYEP: 3rd Thursdays - </itunes:subtitle>
+      <itunes:summary>WYEP's monthly local music happy hour</itunes:summary>
+    </item>
+    <itunes:category text="Arts">
+      <itunes:category text="Literature"/>
+    </itunes:category>
+    <itunes:image href="/path/to/logo.png"/>
+    <itunes:owner>
+      <itunes:name>RadioPublic</itunes:name>
+      <itunes:email>spotlight@radiopublic.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Matt MacDonald</itunes:author>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:keywords>trailers, previews, snippets, shows</itunes:keywords>
+    <itunes:subtitle>Highlighting great podcasts and radio shows.</itunes:subtitle>
+    <itunes:summary>Spotlight from RadioPublic highlights podcasts and shows that we think you'd like.</itunes:summary>
+  </channel>
+</rss>
