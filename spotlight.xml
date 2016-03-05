@@ -1,174 +1,266 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<?xml version="1.0"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rp="http://www.radiopublic.com/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
   <channel>
     <title>Spotlight from RadioPublic.</title>
-    <link>http://www.radiopublic.com/spotlight.xml</link>
     <description>Listen to previews and trailers for podcasts and radio shows.</description>
+    <link>http://www.radiopublic.com/spotlight.xml</link>
     <language>en-us</language>
     <copyright>Copyright 2016</copyright>
-    <lastBuildDate>Wed, 02 Mar 2016 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>2016-03-04</lastBuildDate>
     <image>
       <url>http://www.example.com/images/app_rss_logo.jpg</url>
       <title>Spotlight from RadioPublic.</title>
-      <link>http://www.radiopublic.com/spotlight.xml</link>
     </image>
-    <item>
-      <title>Death, Sex &amp; Money - TODO</title>
-      <link>http://www.wnyc.org/shows/deathsexmoney/</link>
-      <description>A podcast hosted by Anna Sale about the big questions and hard choices that are often left out of polite conversation. Email the show at deathsexmoney@wnyc.org.</description>
-      <enclosure url="http://feeds.wnyc.org/~r/deathsexmoney/~5/d4EBIogIPRw/deathsexmoney030216_heroin_pod.mp3"
-        length="0"
-        type="audio/mpeg"/>
-      <pubDate>Wed, 02 Mar 2016 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.wnyc.org/shows/deathsexmoney/</guid>
-      <dc:date>2016-03-02T05:00:00Z</dc:date>
-      <itunes:author>WNYC (WNYC Studios)</itunes:author>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:keywords>wnyc, anna, sale, death, sex, money, relationships, family, storytelling, wnyc, studios</itunes:keywords>
-      <itunes:subtitle>Death, Sex &amp; Money - TODO</itunes:subtitle>
-      <itunes:summary>A podcast hosted by Anna Sale about the big questions and hard choices that are often left out of polite conversation. Email the show at deathsexmoney@wnyc.org.</itunes:summary>
-    </item>
-    <item>
-      <title>Joe Rogan Experience - If you enjoyed Fear Factor, The Man Show and UFC Ultimate Insider</title>
-      <link>http://podcasts.joerogan.net</link>
-      <pubDate>Wed, 02 Mar 2016 02:35:51 -0000</pubDate>
-      <guid isPermaLink="true">http://podcasts.joerogan.net</guid>
-      <dc:date>2016-03-02T02:35:51Z</dc:date>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:subtitle>Joe Rogan Experience - If you enjoyed Fear Factor, The Man Show and UFC Ultimate Insider</itunes:subtitle>
-    </item>
-    <item>
-      <title>The Moth - Popular with people who love funny, sad and inspirational stories that move you.</title>
-      <link>http://themoth.org</link>
-      <description>Since its launch in 1997, The Moth has presented thousands of true stories, told live and without notes, to standing-room-only crowds worldwide. Moth storytellers stand alone, under a spotlight, with only a microphone and a roomful of strangers. The storyteller and the audience embark on a high-wire act of shared experience which is both terrifying and exhilarating. Since 2008, The Moth podcast has featured many of our favorite stories told live on Moth stages around the country. For information on all of our programs and live events, visit themoth.org.</description>
-      <enclosure url="http://feeds.themoth.org/~r/themothpodcast/~5/L7-FQE870Vc/moth_podcast_424_monica_cheru-mpambawashe.mp3"
-        length="8316765"
-        type="audio/mpeg"/>
-      <pubDate>Tue, 01 Mar 2016 22:08:34 -0000</pubDate>
-      <guid isPermaLink="true">http://themoth.org</guid>
-      <dc:date>2016-03-01T22:08:34Z</dc:date>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:keywords>Podcasts, WNYC</itunes:keywords>
-      <itunes:subtitle>The Moth - Popular with people who love funny, sad and inspirational stories that move you.</itunes:subtitle>
-      <itunes:summary>Since its launch in 1997, The Moth has presented thousands of true stories, told live and without notes, to standing-room-only crowds worldwide. Moth storytellers stand alone, under a spotlight, with only a microphone and a roomful of strangers. The storyteller and the audience embark on a high-wire act of shared experience which is both terrifying and exhilarating. Since 2008, The Moth podcast has featured many of our favorite stories told live on Moth stages around the country. For information on all of our programs and live events, visit themoth.org.</itunes:summary>
-    </item>
-    <item>
-      <title>PTI - If you enjoy ESPN, SportsCenter and sports talk radio.</title>
-      <link>http://espn.go.com/espnradio/podcast/archive?id=2406595</link>
-      <description>Tony Kornheiser and Michael Wilbon face off on the day's hottest topics.</description>
-      <enclosure url="http://c.espnradio.com/s:5L8r1/audio/2693897/pti_2016-03-01-180237.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CMidroll3%2CMidroll4%2CMidroll5%2CMidroll6%2CPostroll%2CPostroll2%7Cstation_id%3D674"
-        length="5900814"
-        type="audio/mp3"/>
-      <pubDate>Tue, 01 Mar 2016 11:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://espn.go.com/espnradio/podcast/archive?id=2406595</guid>
-      <dc:date>2016-03-01T11:00:00Z</dc:date>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:keywords>PTI, ESPN, Pardon The Interruption, michael wilbon, tony kornheiser</itunes:keywords>
-      <itunes:subtitle>PTI - If you enjoy ESPN, SportsCenter and sports talk radio.</itunes:subtitle>
-      <itunes:summary>Tony Kornheiser and Michael Wilbon face off on the day's hottest topics.</itunes:summary>
-    </item>
-    <item>
-      <title>Ace on the House - If you enjoyed the Man Show</title>
-      <link>http://aceonthehouse.adamcarolla.com</link>
-      <description>Adam Carolla's Construction Podcast</description>
-      <enclosure url="http://serve.castfire.com/audio/2688992/2688992_2016-02-26-133432.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CPostroll%2CPostroll2%7Cstation_id%3D1719&amp;type=.mp3"
-        length="5242880"
-        type="audio/mpeg"/>
-      <pubDate>Sun, 28 Feb 2016 04:59:48 -0000</pubDate>
-      <guid isPermaLink="true">http://aceonthehouse.adamcarolla.com</guid>
-      <dc:date>2016-02-28T04:59:48Z</dc:date>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:subtitle>Ace on the House - If you enjoyed the Man Show</itunes:subtitle>
-      <itunes:summary>Adam Carolla's Construction Podcast</itunes:summary>
-    </item>
-    <item>
-      <title>Planet Money - If you enjoy Bloomberg TV and the movies The Big Short and Moneyball</title>
-      <link>http://www.npr.org/podcasts/510289/planet-money</link>
-      <description>Money makes the world go around, faster and faster every day. On NPR's Planet Money, you'll meet high rollers, brainy economists and regular folks — all trying to make sense of our rapidly changing global economy.</description>
-      <enclosure url="http://play.podtrac.com/npr-510289/npr.mc.tritondigital.com/NPR_510289/media/anon.npr-mp3/npr/pmoney/2016/02/20160226_pmoney_podcast022616.mp3?orgId=1&amp;d=1231&amp;p=510289&amp;story=468300339&amp;t=podcast&amp;e=468300339&amp;ft=pod&amp;f=510289"
-        length="0"
-        type="audio/mpeg"/>
-      <pubDate>Fri, 26 Feb 2016 23:43:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.npr.org/podcasts/510289/planet-money</guid>
-      <dc:date>2016-02-26T23:43:00Z</dc:date>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:subtitle>Planet Money - If you enjoy Bloomberg TV and the movies The Big Short and Moneyball</itunes:subtitle>
-      <itunes:summary>Money makes the world go around, faster and faster every day. On NPR's Planet Money, you'll meet high rollers, brainy economists and regular folks — all trying to make sense of our rapidly changing global economy.</itunes:summary>
-    </item>
-    <item>
-      <title>Modern Love - If you enjoy Sex and the City, Broad City, Girls</title>
-      <link>http://www.wbur.org/series/modernlove</link>
-      <description>Explore the joys and tribulations of love in these deeply personal essays. A collaboration of The New York Times and WBUR in Boston, Modern Love: The Podcast features the popular New York Times column, with readings by notable personalities and updates from the essayists themselves. Join host Meghna Chakrabarti (WBUR) and Modern Love editor Daniel Jones (NYT) and fall in love at first listen.</description>
-      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/audio.wbur.org/storage/2015/12/modernlove_1207_modern-love-trailer.mp3"
-        length="800133"
-        type="audio/mpeg"/>
-      <pubDate>Mon, 07 Dec 2015 16:28:28 -0000</pubDate>
-      <guid isPermaLink="true">http://www.wbur.org/series/modernlove</guid>
-      <dc:date>2015-12-07T16:28:28Z</dc:date>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:subtitle>Modern Love - If you enjoy Sex and the City, Broad City, Girls</itunes:subtitle>
-      <itunes:summary>Explore the joys and tribulations of love in these deeply personal essays. A collaboration of The New York Times and WBUR in Boston, Modern Love: The Podcast features the popular New York Times column, with readings by notable personalities and updates from the essayists themselves. Join host Meghna Chakrabarti (WBUR) and Modern Love editor Daniel Jones (NYT) and fall in love at first listen.</itunes:summary>
-    </item>
-    <item>
-      <title>Serial - If you enjoy Dateline NBC, 48 Hours, 20/20, 60 Minutes</title>
-      <link>https://www.serialpodcast.org</link>
-      <description>Serial is a podcast from the creators of This American Life, hosted by Sarah Koenig. Serial unfolds one story - a true story - over the course of a whole season. The show follows the plot and characters wherever they lead, through many surprising twists and turns. Sarah won't know what happens at the end of the story until she gets there, not long before you get there with her. Each week she'll bring you the latest chapter, so it's important to listen in, starting with Episode 1. New episodes are released on Thursday mornings.</description>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/serial/d7f03a15-be26-4634-8884-5fadd404ad75/serial-s01-e01.mp3"
-        length="0"
-        type="audio/mpeg"/>
-      <pubDate>Fri, 03 Oct 2014 13:45:00 -0000</pubDate>
-      <guid isPermaLink="true">https://www.serialpodcast.org</guid>
-      <dc:date>2014-10-03T13:45:00Z</dc:date>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:subtitle>Serial - If you enjoy Dateline NBC, 48 Hours, 20/20, 60 Minutes</itunes:subtitle>
-      <itunes:summary>Serial is a podcast from the creators of This American Life, hosted by Sarah Koenig. Serial unfolds one story - a true story - over the course of a whole season. The show follows the plot and characters wherever they lead, through many surprising twists and turns. Sarah won't know what happens at the end of the story until she gets there, not long before you get there with her. Each week she'll bring you the latest chapter, so it's important to listen in, starting with Episode 1. New episodes are released on Thursday mornings.</itunes:summary>
-    </item>
-    <item>
-      <title>StartUp - Popular with business owners, entrepreneurs and those who like the TV show Silicon Valley</title>
-      <link>https://gimletmedia.com/show/startup/</link>
-      <description>A series about what it's really like to start a business. </description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=0B7PbYS6RexkIWFkxUFhwV2NWM1k"
-        length="22497906"
-        type="audio/mp3"/>
-      <pubDate>Sun, 06 Apr 2014 00:00:00 -0000</pubDate>
-      <guid isPermaLink="true">https://gimletmedia.com/show/startup/</guid>
-      <dc:date>2014-04-06T00:00:00Z</dc:date>
-      <itunes:author>hearstartup@gmail.com (Gimlet)</itunes:author>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:keywords>startup, Blumberg, Alex, Blumberg, business, entrepreneurship, podcast, company, podcast, network</itunes:keywords>
-      <itunes:subtitle>StartUp - Popular with business owners, entrepreneurs and those who like the TV show Silicon Valley</itunes:subtitle>
-      <itunes:summary>A series about what it's really like to start a business. </itunes:summary>
-    </item>
-    <item>
-      <title>99% Invisible - Popular with designers, architects, engineers and people who like the TV show How Stuff Works.</title>
-      <link>http://99percentinvisible.org</link>
-      <description>Design is everywhere in our lives, perhaps most importantly in the places where we’ve just stopped noticing. 99% Invisible (99 Percent Invisible) is a weekly exploration of the process and power of design and architecture. From award winning producer Roman Mars, KALW in San Francisco, and Radiotopia from PRX. Learn more: http://99percentinvisible.org  Proud member of PRX’s Radiotopia.</description>
-      <enclosure url="http://feeds.99percentinvisible.org/~r/99percentinvisible/~5/KNgjQGUCJ8g/01-99-Percent-Noise.mp3"
-        length="4219483"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 23 Sep 2010 21:05:21 -0000</pubDate>
-      <guid isPermaLink="true">http://99percentinvisible.org</guid>
-      <dc:date>2010-09-23T21:05:21Z</dc:date>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:subtitle>99% Invisible - Popular with designers, architects, engineers and people who like the TV show How Stuff Works.</itunes:subtitle>
-      <itunes:summary>Design is everywhere in our lives, perhaps most importantly in the places where we’ve just stopped noticing. 99% Invisible (99 Percent Invisible) is a weekly exploration of the process and power of design and architecture. From award winning producer Roman Mars, KALW in San Francisco, and Radiotopia from PRX. Learn more: http://99percentinvisible.org  Proud member of PRX’s Radiotopia.</itunes:summary>
-    </item>
-    <itunes:category text="Arts">
-      <itunes:category text="Literature"/>
-    </itunes:category>
-    <itunes:image href="/path/to/logo.png"/>
-    <itunes:owner>
+    <itunes:author>Matt MacDonald</itunes:author>
+    <itunes:itunes_owner>
       <itunes:name>RadioPublic</itunes:name>
       <itunes:email>spotlight@radiopublic.com</itunes:email>
-    </itunes:owner>
-    <itunes:author>Matt MacDonald</itunes:author>
-    <itunes:explicit>No</itunes:explicit>
-    <itunes:keywords>trailers, previews, snippets, shows</itunes:keywords>
+    </itunes:itunes_owner>
+    <itunes:keywords>["trailers", "previews", "snippets", "shows"]</itunes:keywords>
     <itunes:subtitle>Highlighting great podcasts and radio shows.</itunes:subtitle>
     <itunes:summary>Spotlight from RadioPublic highlights podcasts and shows that we think you'd like.</itunes:summary>
+    <itunes:image>/path/to/logo.png</itunes:image>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:categories>
+      <itunes:category>Arts</itunes:category>
+      <itunes:category>Literature</itunes:category>
+    </itunes:categories>
+    <item><rp:teaser>Popular with designers, architects, engineers and people who like the TV show How Stuff Works.</rp:teaser><rp:teaserAudioUrl/><rp:originalFeedUrl>http://feeds.99percentinvisible.org/99percentinvisible</rp:originalFeedUrl>
+		<title>99% Invisible-01- 99% Noise</title>
+		<link>http://feeds.99percentinvisible.org/~r/99percentinvisible/~3/EIyuvzzV5Ko/</link>
+		<pubDate>Thu, 23 Sep 2010 21:05:21 +0000</pubDate>
+		<guid isPermaLink="false">http://invisible99.podbean.com/2010/09/23/99-invisible-01-99-noise/</guid>
+		<description>This episode of 99% Invisible is all about acoustic design, the city soundscape, and how to make listening in shared spaces pleasant (or at the very least, possible). It features an interview with Dennis Paoletti from Shen Milsom &amp; Wilke.&lt;img src="http://feeds.feedburner.com/~r/99percentinvisible/~4/EIyuvzzV5Ko" height="1" width="1" alt=""/&gt;</description>
+		
+		<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">This episode of 99% Invisible is all about acoustic design, the city soundscape, and how to make listening in shared spaces pleasant (or at the very least, possible). It features an interview with Dennis Paoletti from Shen Milsom &amp; Wilke.</itunes:subtitle>
+		<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+		<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">4:21</itunes:duration>
+		<feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://99percentinvisible.prx.org/2010/09/23/99-invisible-01-99-noise/</feedburner:origLink><enclosure url="http://feeds.99percentinvisible.org/~r/99percentinvisible/~5/KNgjQGUCJ8g/01-99-Percent-Noise.mp3" length="4219483" type="audio/mpeg"/><feedburner:origEnclosureLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/99percentinvisible/cdn.99percentinvisible.org/wp-content/uploads/01-99-Percent-Noise.mp3</feedburner:origEnclosureLink></item>
+    <item><rp:teaser>If you enjoyed the Man Show</rp:teaser><rp:teaserAudioUrl/><rp:originalFeedUrl>http://aceonthehouse.adamcarolla.com/category/podcast/feed/</rp:originalFeedUrl>
+		<title>3 Miles Away, 20 Minutes Late</title>
+		<link>http://aceonthehouse.adamcarolla.com/2016/02/3-miles-away-20-minutes-late/</link>
+		<comments>http://aceonthehouse.adamcarolla.com/2016/02/3-miles-away-20-minutes-late/#comments</comments>
+		<pubDate>Sun, 28 Feb 2016 04:59:48 +0000</pubDate>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"><![CDATA[aceadmin]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Adam Carolla]]></category>
+		<category><![CDATA[Eric Stromer]]></category>
+		<category><![CDATA[featured]]></category>
+		<category><![CDATA[Ray Oldhafer]]></category>
+
+		<guid isPermaLink="false">http://aceonthehouse.adamcarolla.com/?p=2703</guid>
+		<description><![CDATA[Ray and Stromer discuss the best ‘bang for your buck’ home improvements. They also chat about opening up your ceiling, guys who are too relaxed on the job site, and how to deal with termite damage. Show Summary Ray and Stromer open the show talking about Eric’s family routine, and complaining about guys who are [&#8230;]]]></description>
+				<content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;">
+		<img src="http://aceonthehouse.adamcarolla.com/wp-content/uploads/2016/02/MAIN-6.jpg" width="240" />
+		</p>
+<div class="topsy_widget_data topsy_theme_brown" style="float: right;margin-left: 0.75em; background: url(data:,%7B%20%22url%22%3A%20%22http%253A%252F%252Faceonthehouse.adamcarolla.com%252F2016%252F02%252F3-miles-away-20-minutes-late%252F%22%2C%20%22shorturl%22%3A%20%22http%3A%2F%2Fbit.ly%2F1pgThCJ%22%2C%20%22style%22%3A%20%22big%22%2C%20%22title%22%3A%20%223%20Miles%20Away%2C%2020%20Minutes%20Late%22%20%7D);"></div>
+<ol>
+Ray and Stromer discuss the best ‘bang for your buck’ home improvements. They also chat about opening up your ceiling, guys who are too relaxed on the job site, and how to deal with termite damage.</p>
+
+<hr>
+<h2>Show Summary</h2>
+<p>Ray and Stromer open the show talking about Eric’s family routine, and complaining about guys who are too relaxed on the job site. The guys then respond to a video question about termite damage, and a second video about renovating an outdoor fountain. This week’s email question deals with a moisture issue in someone’s foundation. Later, the guys talk to callers about the best ‘bang for your buck’ home improvements, and how to open up the ceiling in your living room. As the show wraps up, the guys recall some of their favorite football coaches growing up. </p>
+<p>Make sure to follow Ray and Eric on Twitter <a href="http://www.twitter.com/rayoldhafer">@RayOldhafer</a> <a href="http://www.twitter.com/EricStromer">@EricStromer</a>.</p>
+<p>Tell a friend about the show, and please support our sponsors.</p>
+<hr>
+<h2>This Week&#8217;s Video Questions</h2>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/e4EcDRF-mMo" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/rhuQAX_l7_s" frameborder="0" allowfullscreen></iframe></p>
+<h2><a href="http://aceonthehouse.adamcarolla.com/adam-rays-tool-suggestions/">Adam &amp; Ray&#8217;s Tool Kit Gift Guide</a></h2>
+<p>Click our <a href="http://aceonthehouse.adamcarolla.com/adam-rays-tool-suggestions/">Tool Gift Guide</a>, tell a friend about the show, and please support our sponsors.</p>
+<p>Tell a friend about the show, and please support our sponsors.</p>
+<h2>Want To Submit A Video Question??</h2>
+<p>Grab one with your phone, or just flip your snapshot camera into video mode.</p>
+<p>Email us a YouTube link, or send us a small vid (no more than 10 MB). <a href="mailto:aceonthehouse@adamcarolla.com">aceonthehouse@adamcarolla.com</a></p>
+<h2>Want To Call In??</h2>
+<p>Follow us <a href="https://twitter.com/#!/AceOnTheHouse">@AceOnTheHouse</a> and get the jump on everyone else<br />
+You can also follow Ray <a href="https://twitter.com/#!/rayoldhafer">@RayOldhafer</a></p>
+<h2>Show Credits</h2>
+<p>Producers: Matt Fondiler &amp; Gary Smith<br />
+Audio/Post-Production/Show Summary: Matt Fondiler<br />
+Phones/Researcher/Web Engineer: Gary Smith</p>
+<p>Ace on the House Theme Song: Jason Boots (hear more music at <a href="http://jasonboots.com/" target="_blank">http://JasonBoots.com</a>)</p>
+<p></p>
+<hr>
+</ol>
+
+]]></content:encoded>
+			<wfw:commentRss xmlns:wfw="http://wellformedweb.org/CommentAPI/">http://aceonthehouse.adamcarolla.com/2016/02/3-miles-away-20-minutes-late/feed/</wfw:commentRss>
+		<slash:comments xmlns:slash="http://purl.org/rss/1.0/modules/slash/">1</slash:comments>
+<enclosure url="http://serve.castfire.com/audio/2688992/2688992_2016-02-26-133432.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CPostroll%2CPostroll2%7Cstation_id%3D1719&amp;type=.mp3" length="5242880" type="audio/mpeg"/>
+		</item>
+    <item><rp:teaser>If you enjoy Dateline NBC, 48 Hours, 20/20, 60 Minutes</rp:teaser><rp:teaserAudioUrl/><rp:originalFeedUrl>http://feeds.serialpodcast.org/serialpodcast</rp:originalFeedUrl>
+ <title>S01 Episode 01: The Alibi</title>
+ <link>http://feeds.serialpodcast.org/~r/serialpodcast/~3/5ycPwkd6LAY/the-alibi</link>
+ <description>It's Baltimore, 1999. Hae Min Lee, a popular high-school senior, disappears after school one day. Six weeks later detectives arrest her classmate and ex-boyfriend, Adnan Syed, for her murder. He says he's innocent - though he can't exactly remember what he was doing on that January afternoon. But someone can. A classmate at Woodlawn High School says she knows where Adnan was. The trouble is, she&#x2019;s nowhere to be found.
+&#xA0;&lt;img src="http://feeds.feedburner.com/~r/serialpodcast/~4/5ycPwkd6LAY" height="1" width="1" alt=""/&gt;</description>
+ <pubDate>Fri, 03 Oct 2014 13:45:00 +0000</pubDate>
+ <guid isPermaLink="false">2 at http://serialpodcast.org</guid>
+ <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">This American Life</itunes:author>
+ <itunes:order xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">2</itunes:order>
+ <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:54:00</itunes:duration>
+ <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+ <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/serial/d7f03a15-be26-4634-8884-5fadd404ad75/serial-s01-e01.mp3" type="audio/mpeg" length="0"/>
+ <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">It's Baltimore, 1999. Hae Min Lee, a popular high-school senior, disappears after school one day. Six weeks later detectives arrest her classmate and ex-boyfriend, Adnan Syed, for her murder. He says he's innocent - though he can't exactly remember...</itunes:subtitle>
+ <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">It's Baltimore, 1999. Hae Min Lee, a popular high-school senior, disappears after school one day. Six weeks later detectives arrest her classmate and ex-boyfriend, Adnan Syed, for her murder. He says he's innocent - though he can't exactly remember what he was doing on that January afternoon. But someone can. A classmate at Woodlawn High School says she knows where Adnan was. The trouble is, she&#x2019;s nowhere to be found.
+&#xA0;</itunes:summary>
+<feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">https://serialpodcast.org/season-one/1/the-alibi</feedburner:origLink></item>
+    <item><rp:teaser>If you enjoy Sex and the City, Broad City, Girls</rp:teaser><rp:teaserAudioUrl/><rp:originalFeedUrl>http://www.wbur.org/tags/modernlove?feed=podcast</rp:originalFeedUrl>
+					<guid isPermaLink="true">http://www.wbur.org/2015/12/07/modern-love-trailer</guid>
+					<title><![CDATA[Introducing ‘Modern Love: The Podcast’]]></title>
+					<link>http://www.wbur.org/2015/12/07/modern-love-trailer</link>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"><![CDATA[WBUR]]></dc:creator>
+					<category><![CDATA[Radio Broadcast]]></category>
+					
+					<description><![CDATA[Explore the trials and tribulations of love in these deeply personal essays. A collaboration of The New York Times and WBUR in Boston, Modern Love: The Podcast features the popular New York Times column, with readings by notable personalities and updates from the essayists themselves. Join host Meghna Chakrabarti (WBUR) and Modern Love editor Daniel Jones (NYT) -- and fall in love at first listen.]]></description>
+					<pubDate>Mon, 7 Dec 2015 11:28:28 EST</pubDate>
+					<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><![CDATA[WBUR]]></itunes:author>
+					<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><![CDATA[Explore the trials and tribulations of love in these deeply personal essays. A collaboration of The New York Times and WBUR in Boston, Modern Love: The Podcast features the popular New York Times column, with readings by notable personalities and updates from the essayists themselves. Join host Meghna Chakrabarti (WBUR) and Modern Love editor Daniel Jones (NYT) -- and fall in love at first listen.]]></itunes:subtitle>
+					<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><![CDATA[Explore the trials and tribulations of love in these deeply personal essays. A collaboration of The New York Times and WBUR in Boston, Modern Love: The Podcast features the popular New York Times column, with readings by notable personalities and updates from the essayists themselves. Join host Meghna Chakrabarti (WBUR) and Modern Love editor Daniel Jones (NYT) -- and fall in love at first listen.]]></itunes:summary>
+					<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:42</itunes:duration>
+					
+					<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.podtrac.com/pts/redirect.mp3/audio.wbur.org/storage/2015/12/modernlove_1207_modern-love-trailer.mp3" fileSize="800133" type="audio/mpeg"/>
+					<enclosure url="http://www.podtrac.com/pts/redirect.mp3/audio.wbur.org/storage/2015/12/modernlove_1207_modern-love-trailer.mp3" length="800133" type="audio/mpeg"/>
+					<content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[Explore the trials and tribulations of love in these deeply personal essays. A collaboration of The New York Times and WBUR in Boston, Modern Love: The Podcast features the popular New York Times column, with readings by notable personalities and updates from the essayists themselves. Join host Meghna Chakrabarti (WBUR) and Modern Love editor Daniel Jones (NYT) -- and fall in love at first listen.]]></content:encoded>
+				</item>
+    <item><rp:teaser>Popular with people who love funny, sad and inspirational stories that move you.</rp:teaser><rp:teaserAudioUrl/><rp:originalFeedUrl>http://feeds.themoth.org/themothpodcast</rp:originalFeedUrl>
+		<title>Monica Cheru-Mpambawashe &amp; Ruth Adong &amp; Lebo Moletsane:  Stories from The Moth Community Program</title>
+		<link>http://feeds.themoth.org/~r/themothpodcast/~3/eKP565Fl6Zw/</link>
+		<pubDate>Tue, 01 Mar 2016 22:08:34 +0000</pubDate>
+		<guid isPermaLink="false">http://themoth.prx.org/?p=2734</guid>
+		<comments>http://themoth.prx.org/monica-cheru-mpambawashe-ruth-adong-lebo-moletsane/#respond</comments>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mooj Zadie</dc:creator>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[WNYC]]></category>
+		<description>Three stories developed and crafted in The Moth Community Program:
+
+A daughter is confronted by her parent's empty fridge, a girl&#xA0;struggles with her family's neighborly etiquette,&#xA0;and a&#xA0;teacher&#xA0;speaks up in defense of one of her female students.</description>
+		<content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>Three stories developed and crafted in The Moth Community Program:</p>
+<p><span class="im" style="line-height: 1.5;">A daughter is confronted by her parent&#8217;s empty fridge, a girl struggles with her family&#8217;s neighborly etiquette, </span><span style="line-height: 1.5;">and a teacher speaks up in defense of one of her female students.</span></p>
+<img src="http://feeds.feedburner.com/~r/themothpodcast/~4/eKP565Fl6Zw" height="1" width="1" alt=""/>]]></content:encoded>
+		<wfw:commentRss xmlns:wfw="http://wellformedweb.org/CommentAPI/">http://themoth.prx.org/monica-cheru-mpambawashe-ruth-adong-lebo-moletsane/feed/</wfw:commentRss>
+		<slash:comments xmlns:slash="http://purl.org/rss/1.0/modules/slash/">0</slash:comments>
+		
+		<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Three stories developed and crafted in The Moth Community Program: - A daughter is confronted by her parent's empty fridge, a girl&#xA0;struggles with her family's neighborly etiquette,&#xA0;and a&#xA0;teacher&#xA0;speaks up in defense of one of her female students.</itunes:subtitle>
+		<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Three stories developed and crafted in The Moth Community Program:
+
+A daughter is confronted by her parent's empty fridge, a girl&#xA0;struggles with her family's neighborly etiquette,&#xA0;and a&#xA0;teacher&#xA0;speaks up in defense of one of her female students.</itunes:summary>
+		<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Moth</itunes:author>
+		<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+		<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">16:20</itunes:duration>
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://feeds.themoth.org/~r/themothpodcast/~5/L7-FQE870Vc/moth_podcast_424_monica_cheru-mpambawashe.mp3" fileSize="8316765" type="audio/mpeg"/><itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Podcasts, WNYC</itunes:keywords><feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://themoth.prx.org/monica-cheru-mpambawashe-ruth-adong-lebo-moletsane/</feedburner:origLink><enclosure url="http://feeds.themoth.org/~r/themothpodcast/~5/L7-FQE870Vc/moth_podcast_424_monica_cheru-mpambawashe.mp3" length="8316765" type="audio/mpeg"/><feedburner:origEnclosureLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.podtrac.com/pts/redirect.mp3/cdn.themoth.prx.org/wp-content/uploads/moth_podcast_424_monica_cheru-mpambawashe.mp3</feedburner:origEnclosureLink></item>
+    <item><rp:teaser>If you enjoyed Fear Factor, The Man Show and UFC Ultimate Insider</rp:teaser><rp:teaserAudioUrl/><rp:originalFeedUrl>http://podcasts.joerogan.net/feed</rp:originalFeedUrl>
+		<title>Bert Kreischer</title>
+		<link>http://podcasts.joerogan.net/podcasts/bert-kreischer-7</link>
+		<comments>http://podcasts.joerogan.net/podcasts/bert-kreischer-7#comments</comments>
+		<pubDate>Fri, 04 Mar 2016 03:22:54 +0000</pubDate>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">joe.rogan</dc:creator>
+		
+		<guid isPermaLink="false">http://podcasts.joerogan.net/?post_type=podcasts&amp;p=7510</guid>
+		<description><![CDATA[#769. <strong>Bert Kreischer</strong> is a stand-up comedian, actor and reality television host. Check out his book "Life of the Party" on Amazon and his podcast "The Bertcast" on Stitcher &amp; iTunes.<p><img src="http://podcasts.joerogan.net/wp-content/uploads/2016/03/JRE769.jpg" width="580" alt="" /></p>]]></description>
+			<content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[#769. <strong>Bert Kreischer</strong> is a stand-up comedian, actor and reality television host. Check out his book "Life of the Party" on Amazon and his podcast "The Bertcast" on Stitcher &amp; iTunes.<p><img src="http://podcasts.joerogan.net/wp-content/uploads/2016/03/JRE769.jpg" width="580" alt="" /></p>]]></content:encoded>
+			<wfw:commentRss xmlns:wfw="http://wellformedweb.org/CommentAPI/">http://podcasts.joerogan.net/podcasts/bert-kreischer-7/feed</wfw:commentRss>
+		<slash:comments xmlns:slash="http://purl.org/rss/1.0/modules/slash/">0</slash:comments>
+		</item>
+    <item><rp:teaser>If you enjoy Bloomberg TV and the movies The Big Short and Moneyball</rp:teaser><rp:teaserAudioUrl/><rp:originalFeedUrl>http://www.npr.org/templates/rss/podcast.php?id=510289</rp:originalFeedUrl>
+      <title>#688: Brilliant vs. Boring</title>
+      <description><![CDATA[A million-dollar bet pits a bunch of really smart money managers against the simplest investment idea in the world.]]></description>
+      <pubDate>Fri, 04 Mar 2016 19:22:00 -0500</pubDate>
+      <copyright>2015 National Public Radio</copyright>
+      <guid>df69b9bc-cb08-4370-a384-0162da3f0642</guid>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">NPR</itunes:author>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><![CDATA[A million-dollar bet pits a bunch of really smart money managers against the simplest investment idea in the world.]]></itunes:summary>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><![CDATA[A million-dollar bet pits a bunch of really smart money managers against the simplest investment idea in the world.]]></itunes:subtitle>
+      <itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://media.npr.org/assets/img/2016/03/04/bet--warren_wide-1e968270b1b5822e73882ad493341f4dd93a191c.jpg?s=1400"/>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">1268</itunes:duration>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+      <enclosure url="http://play.podtrac.com/npr-510289/npr.mc.tritondigital.com/NPR_510289/media/anon.npr-mp3/npr/pmoney/2016/03/20160304_pmoney_podcast030416v2.mp3?orgId=1&amp;d=1268&amp;p=510289&amp;story=469246509&amp;t=podcast&amp;e=469246509&amp;ft=pod&amp;f=510289" length="0" type="audio/mpeg"/>
+    </item>
+    <item><rp:teaser>If you enjoy ESPN, SportsCenter and sports talk radio.</rp:teaser><rp:teaserAudioUrl/><rp:originalFeedUrl>http://espn.go.com/espnradio/feeds/rss/podcast.xml?id=2406595</rp:originalFeedUrl>
+                                
+                                <title>No. 1A or No. 2? : 3/4/16</title>
+                                <link><![CDATA[http://c.espnradio.com/s:5L8r1/audio/2696613/pti_2016-03-04-181113.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CMidroll3%2CMidroll4%2CMidroll5%2CMidroll6%2CPostroll%2CPostroll2%7Cstation_id%3D674]]></link>
+                                <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">ESPN</itunes:author>
+                                <description>Tony Kornheiser is joined by Pablo Torre. They discuss if Steve Kerr will favor rest over record, where the Spurs should be being ranked against the Warriors, Carmelo Anthony's relationship with the Knicks and more. </description>
+                                <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tony Kornheiser is joined by Pablo Torre. They discuss if Steve Kerr will favor rest over record, where the Spurs should be being ranked against the Warriors, Carmelo Anthony's relationship with the Knicks and more. </itunes:subtitle>
+                                <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tony Kornheiser is joined by Pablo Torre. They discuss if Steve Kerr will favor rest over record, where the Spurs should be being ranked against the Warriors, Carmelo Anthony's relationship with the Knicks and more. </itunes:summary>
+                                
+                                <enclosure url="http://c.espnradio.com/s:5L8r1/audio/2696613/pti_2016-03-04-181113.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CMidroll3%2CMidroll4%2CMidroll5%2CMidroll6%2CPostroll%2CPostroll2%7Cstation_id%3D674" length="5900814" type="audio/mp3"/>
+                                
+                                
+                                <pubDate><![CDATA[Fri, 4 Mar 2016 03:00:00 PST]]></pubDate>
+                                
+                                <category><![CDATA[News]]></category>
+                                <!-- 
+                                <itunes:category text="News">
+                                    <itunes:category text="Sports" />
+                                </itunes:category>
+                                -->
+                                <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><![CDATA[No]]></itunes:explicit>
+                                <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><![CDATA[21:13]]></itunes:duration>
+                                <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><![CDATA[PTI, ESPN, Pardon The Interruption, michael wilbon, tony kornheiser]]></itunes:keywords>
+                                <guid isPermaLink="false">http://sports.espn.go.com/espnradio/podcast?id=14903903</guid>		
+                            </item>
+    <item>
+      <rp:teaser>TODO</rp:teaser>
+      <rp:teaserAudioUrl/>
+      <rp:originalFeedUrl>http://feeds.wnyc.org/deathsexmoney</rp:originalFeedUrl>
+      <title>Falling in Love... With Heroin
+</title>
+      <link>http://feeds.wnyc.org/~r/deathsexmoney/~3/kbb7o-xuwUE/</link>
+      <description>&lt;p&gt;Susanne* met Mike* when she was 16. He was 18, and her supervisor at the call center where they worked. They flirted and started dating. "Average teenager stuff," Susanne recalls. Soon after they got together, Mike&#xA0;offered Susanne heroin. She says she had never even smoked pot before.&lt;/p&gt;
+&lt;p&gt;"I don&#x2019;t want to be mean, but I felt pressured into doing it. So, I did," she adds. "And then I fell in love."&lt;/p&gt;
+&lt;p&gt;Heroin took over Susanne and Mike's lives for the next five&#xA0;years. Mike admits that their story, though increasingly common, looks bad from the outside. "I should&#x2019;ve said, 'Hey, this is probably not the best way to move forward with my life,'" he reflects, "But there&#x2019;s some things that&#x2019;re more important, I guess. Like heroin addiction."&lt;/p&gt;
+&lt;p&gt;Through overdoses, incarcerations and three pregnancies, Susanne and Mike kept their relationship intact, even as relationships with family deteriorated. Methadone treatment finally helped them kick their habit. Today, they say&#xA0;it's been almost 10&#xA0;years since they last used heroin. They&#xA0;moved to a nice neighborhood hundreds&#xA0;of miles away from where their lives began to spiral. Mike found a well-paying job, but felonies on both their records have limited their career options.&lt;/p&gt;
+&lt;p&gt;And&#xA0;true&#xA0;stability continues to be&#xA0;elusive. During our fact-checking process, we&#xA0;uncovered a pending criminal charge&#xA0;that Susanne and Mike hadn't shared with us at first. And it casts their interview&#xA0;in a different light. When we checked in with them again, it became apparent that the outcome of this story&#x2014;and their relationship&#x2014;is far from clear.&#xA0;&lt;/p&gt;
+&lt;p&gt;*Names changed&lt;/p&gt;
+</description>
+      <pubDate>Wed, 02 Mar 2016 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">http://www.wnyc.org/story/heroin-death-sex-money/</guid>
+      <category>addiction</category>
+      <category>addiction_heroin_opioids</category>
+      <category>apple_news</category>
+      <category>conviction</category>
+      <category>drug  addiction [lc]</category>
+      <category>explicit</category>
+      <category>felony</category>
+      <category>heroin</category>
+      <category>interview</category>
+      <category>jail</category>
+      <category>marriage</category>
+      <category>parenting</category>
+      <category>recovery</category>
+      <category>sad</category>
+      <category>storytelling</category>
+      <category>struggle</category>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://feeds.wnyc.org/~r/deathsexmoney/~5/d4EBIogIPRw/deathsexmoney030216_heroin_pod.mp3" type="audio/mpeg"/>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/" type="plain">Falling in Love... With Heroin
+</media:description>
+      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://media2.wnyc.org/i/130/130/c/80/1/GettyImages-167076302.jpg" width="130" height="130"/>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">29:35</itunes:duration>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><![CDATA[<p>Susanne and Mike met and fell in love with each other...and heroin. They stuck together through addiction and recovery, but things haven't fallen into place the way they had hoped.</p>]]></itunes:summary>
+      <author>WNYC (WNYC Studios)</author>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> Susanne* met Mike* when she was 16. He was 18, and her supervisor at the call center where they worked. They flirted and started dating. "Average teenager stuff," Susanne recalls. Soon after they got together, Mike&#xA0;offered Susanne heroin. She says she ha</itunes:subtitle>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">WNYC Studios</itunes:author>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">wnyc,anna,sale,death,sex,money,relationships,family,storytelling,wnyc,studios</itunes:keywords>
+      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.wnyc.org/story/heroin-death-sex-money/</feedburner:origLink>
+      <enclosure url="http://feeds.wnyc.org/~r/deathsexmoney/~5/d4EBIogIPRw/deathsexmoney030216_heroin_pod.mp3" length="0" type="audio/mpeg"/>
+      <feedburner:origEnclosureLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/deathsexmoney/deathsexmoney030216_heroin_pod.mp3</feedburner:origEnclosureLink>
+    </item>
+    <item><rp:teaser>Popular with business owners, entrepreneurs and those who like the TV show Silicon Valley</rp:teaser><rp:teaserAudioUrl>https://drive.google.com/uc?export=download&amp;id=0B7PbYS6RexkIWFkxUFhwV2NWM1k</rp:teaserAudioUrl><rp:originalFeedUrl>http://feeds.gimletmedia.com/hearstartup</rp:originalFeedUrl>
+      <title>#1 How Not to Pitch a Billionaire</title>
+      <description>This is a series about what happens when someone &#x2026;</description>
+      <pubDate>Sun, 06 Apr 2014 00:00:00 -0000</pubDate>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Gimlet</itunes:author>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">This is a series about what happens when someone &#x2026;</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+        <![CDATA[This is a series about what happens when someone who knows nothing about business starts one. It's called StartUp.&nbsp; In episode one, Alex Blumberg botches his pitch to Silicon Valley billionaire Chris Sacca.]]>
+      </itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">1406</itunes:duration>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/165352308]]></guid>
+      
+    <author>hearstartup@gmail.com (Gimlet)</author><media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://feeds.gimletmedia.com/~r/hearstartup/~5/BQYkXpbicxI/GLT6739184420.mp3" fileSize="22497906" type="audio/mp3"/><itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">startup,Blumberg,Alex,Blumberg,business,entrepreneurship,podcast,company,podcast,network</itunes:keywords><enclosure url="http://feeds.gimletmedia.com/~r/hearstartup/~5/BQYkXpbicxI/GLT6739184420.mp3" length="22497906" type="audio/mp3"/><feedburner:origEnclosureLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://cdn.panoply.fm/GLT6739184420.mp3</feedburner:origEnclosureLink></item>
   </channel>
 </rss>
